@@ -1,1 +1,20 @@
-[]
+[
+ {
+  "date": "2026-10-16",
+  "name": "BrowserStack (Test Platform / AI agents)",
+  "what": "page content changed",
+  "url": "https://www.browserstack.com/pricing"
+ },
+ {
+  "date": "2026-10-16",
+  "name": "Skyvern",
+  "what": "page content changed",
+  "url": "https://github.com/Skyvern-AI/skyvern"
+ },
+ {
+  "date": "2026-10-16",
+  "name": "Browser Use",
+  "what": "page content changed",
+  "url": "https://github.com/browser-use/browser-use"
+ }
+]

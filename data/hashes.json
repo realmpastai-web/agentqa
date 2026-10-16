@@ -14,7 +14,7 @@
   "prices": []
  },
  "browserstack-ai": {
-  "hash": "c2bb391b8050eee28480a5cfda6cf2d3017d4117de55037638355ecc1b02f689",
+  "hash": "efe4c652568e1489963756253c63276b4bd726835d650534486d7847c1fb2908",
   "prices": []
  },
  "testmu-ai": {
@@ -91,11 +91,11 @@
   "prices": []
  },
  "skyvern": {
-  "hash": "256a8466fa74606a958e95de90e838612c1b3bd3fb9e2c88b25f585ee5cf11c8",
+  "hash": "ff058205cd9e03bed54ed00d1816c3cd37f958a3fc9e84c9a56ea2fd6967bf64",
   "prices": []
  },
  "browser-use": {
-  "hash": "9c16311757ba1d768fb9f2e7ab4285852d05cc9e18a76a723edec45f2a76db61",
+  "hash": "76014178a36d20bee63050b2c89939f1669ecfc69ff6836a0637d3968c4bd902",
   "prices": []
  }
 }
