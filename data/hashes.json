@@ -1,0 +1,101 @@
+{
+ "momentic": {
+  "hash": "0f8924501ad009d2ac124a0214a934094252554f882a722a420010955aeb7085",
+  "prices": [
+   "$125 / mo"
+  ]
+ },
+ "mabl": {
+  "hash": "24b37c9b56e9a13e5f6a25dfb00ded0bcad529686353513d56e9384d12d20392",
+  "prices": []
+ },
+ "katalon": {
+  "hash": "ad6ce8df855c3c8c5f1af91fa82a0074c60b696c0bc0c3cda414b2fac19a0a18",
+  "prices": []
+ },
+ "browserstack-ai": {
+  "hash": "c2bb391b8050eee28480a5cfda6cf2d3017d4117de55037638355ecc1b02f689",
+  "prices": []
+ },
+ "testmu-ai": {
+  "hash": "dff23a14e1a593bb8c977e53ae80c0acfbaa473fc59c2d76de7295bd8384cf58",
+  "prices": [
+   "$103/mo",
+   "$139 /mo",
+   "$15 /mo",
+   "$15/mo",
+   "$159 /mo",
+   "$159/mo",
+   "$17 /mo",
+   "$179 /mo",
+   "$199 /mo",
+   "$29 /mo",
+   "$29/mo",
+   "$349 /mo",
+   "$349/mo",
+   "$39 /mo",
+   "$39/mo",
+   "$44 /mo",
+   "$49 /mo",
+   "$79 /mo",
+   "$79/mo",
+   "$89 /mo",
+   "$99/mo"
+  ]
+ },
+ "qodex": {
+  "hash": "40c5dc161b147b6a9b7fe677f8c68424702f8d63b4d6da51b5197d95412453c5",
+  "prices": []
+ },
+ "qa-wolf": {
+  "hash": "81e0ae33210c1ee0c2bcbc851df703e7088713f15c065916aa5b8403feefd079",
+  "prices": []
+ },
+ "functionize": {
+  "hash": "87b3639dbf53ef5211edfe7f899f99be0ba9a11ab9087d5290f774782b5af5c9",
+  "prices": [
+   "$100 /mo",
+   "$20 /mo"
+  ]
+ },
+ "applitools": {
+  "hash": "e7f7c95424afe39baacbe4971041dfdbb818adcf2a5ffbf5f37f978984bda25b",
+  "prices": [
+   "$667 / mo"
+  ]
+ },
+ "reflect": {
+  "hash": "df831dff565523b0d044e7d4946abd28b66a0e242d29ff77287f929792107e20",
+  "prices": []
+ },
+ "virtuoso": {
+  "hash": "015ff853bbfbb0d5b8603a565d5fad471b2149ea6592bc8a638b5ec5d7766b1f",
+  "prices": []
+ },
+ "checksum": {
+  "hash": "419cacf722d9b5c1e8befb291b3393ea56e828d88d8ee7460f5554296de304ee",
+  "prices": []
+ },
+ "keploy": {
+  "hash": "27e7d35e0fe84b0f21f3be505a8613b5f6a9c0ecf2fb40c468d3544d3529550f",
+  "prices": [
+   "$19/user"
+  ]
+ },
+ "playwright-mcp": {
+  "hash": "8281e5031fbf42cba77a798ef6848461c14323548c527288aa8f791ef1697393",
+  "prices": []
+ },
+ "stagehand": {
+  "hash": "dd9bef66164492cb07cdc2203bb7532a59d1d13249508b1cc846007a2d3573cd",
+  "prices": []
+ },
+ "skyvern": {
+  "hash": "256a8466fa74606a958e95de90e838612c1b3bd3fb9e2c88b25f585ee5cf11c8",
+  "prices": []
+ },
+ "browser-use": {
+  "hash": "9c16311757ba1d768fb9f2e7ab4285852d05cc9e18a76a723edec45f2a76db61",
+  "prices": []
+ }
+}
