@@ -6,7 +6,7 @@
   ]
  },
  "mabl": {
-  "hash": "24b37c9b56e9a13e5f6a25dfb00ded0bcad529686353513d56e9384d12d20392",
+  "hash": "26090a03df4aba9f447e5a6786348b6ee6c3a7451c8d14706bfa5003a3489894",
   "prices": []
  },
  "katalon": {
@@ -18,7 +18,7 @@
   "prices": []
  },
  "testmu-ai": {
-  "hash": "dff23a14e1a593bb8c977e53ae80c0acfbaa473fc59c2d76de7295bd8384cf58",
+  "hash": "49f0ebc8661f2716cf40d5dc8f7c6042542e8d38b23319fa39951da29ca2b986",
   "prices": [
    "$103/mo",
    "$139 /mo",
@@ -83,19 +83,19 @@
   ]
  },
  "playwright-mcp": {
-  "hash": "8281e5031fbf42cba77a798ef6848461c14323548c527288aa8f791ef1697393",
+  "hash": "63dbc4a1a1f9f03767c0e6eb8d3d9d1c81dfb17ebfd9b34c7c416ac657b02dca",
   "prices": []
  },
  "stagehand": {
-  "hash": "dd9bef66164492cb07cdc2203bb7532a59d1d13249508b1cc846007a2d3573cd",
+  "hash": "dbe7cd8cbb2c8b6c70c4dd23867560d8660ce37a62f8ad58c2e4a6f5f6671003",
   "prices": []
  },
  "skyvern": {
-  "hash": "ff058205cd9e03bed54ed00d1816c3cd37f958a3fc9e84c9a56ea2fd6967bf64",
+  "hash": "46cd9b14e6d1ca38543c3cfad85f76f0f9588b6d182baf8c5ae81e4149a27226",
   "prices": []
  },
  "browser-use": {
-  "hash": "76014178a36d20bee63050b2c89939f1669ecfc69ff6836a0637d3968c4bd902",
+  "hash": "b429d7ad2b3be52ad7489e2a5b8a232a1fa2c0783a246ffa7dddad479978ece8",
   "prices": []
  }
 }
