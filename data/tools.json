@@ -27,14 +27,14 @@
    "mobile",
    "desktop"
   ],
-  "pricing": "Tiered plans incl. 'Public Open Source' free tier for public tests",
+  "pricing": "Public Open Source plan free forever (all tests and results public); Private Complete 14-day trial; Enterprise custom pricing",
   "free_tier": true,
   "open_source": false,
   "integrations": [
    "see site"
   ],
-  "source": "https://testrigor.com/pricing/",
-  "last_checked": "2026-10-16"
+  "source": "https://testrigor.com/sign-up/",
+  "last_checked": "2026-10-21"
  },
  {
   "slug": "mabl",
@@ -126,13 +126,13 @@
  {
   "slug": "autonoma",
   "name": "Autonoma",
-  "url": "https://getautonoma.com",
+  "url": "https://github.com/Autonoma-AI/autonoma",
   "category": "Agentic E2E testing on PR previews",
   "tests": [
    "web",
    "mobile (Appium, dormant per docs)"
   ],
-  "pricing": "Hosted plans (see site); self-host free",
+  "pricing": "Hosted plans (vendor site getautonoma.com returned 404 on 2026-10-21; pricing not re-verified); self-host open source",
   "free_tier": true,
   "open_source": true,
   "integrations": [
@@ -141,8 +141,8 @@
    "Playwright",
    "Appium"
   ],
-  "source": "https://getautonoma.com/llms.txt",
-  "last_checked": "2026-10-16"
+  "source": "https://github.com/Autonoma-AI/autonoma",
+  "last_checked": "2026-10-21"
  },
  {
   "slug": "qodex",
@@ -361,5 +361,90 @@
   ],
   "source": "https://github.com/browser-use/browser-use",
   "last_checked": "2026-10-19"
+ },
+ {
+  "slug": "midscene",
+  "name": "Midscene.js",
+  "url": "https://midscenejs.com",
+  "category": "Vision-based AI UI automation & E2E testing SDK",
+  "tests": [
+   "web",
+   "Android",
+   "iOS"
+  ],
+  "pricing": "Free (MIT); bring your own model",
+  "free_tier": true,
+  "open_source": true,
+  "integrations": [
+   "Playwright",
+   "Puppeteer",
+   "ADB (Android)",
+   "WebDriverAgent (iOS)",
+   "YAML test cases"
+  ],
+  "source": "https://github.com/web-infra-dev/midscene",
+  "last_checked": "2026-10-21"
+ },
+ {
+  "slug": "shortest",
+  "name": "Shortest",
+  "url": "https://github.com/antiwork/shortest",
+  "category": "Natural-language AI E2E testing framework",
+  "tests": [
+   "web"
+  ],
+  "pricing": "Free (MIT); needs your own Anthropic API key",
+  "free_tier": true,
+  "open_source": true,
+  "integrations": [
+   "Playwright",
+   "Anthropic Claude API",
+   "GitHub (2FA)",
+   "Mailosaur"
+  ],
+  "source": "https://github.com/antiwork/shortest",
+  "last_checked": "2026-10-21"
+ },
+ {
+  "slug": "qa-tech",
+  "name": "QA.tech",
+  "url": "https://qa.tech",
+  "category": "Agentic AI QA testing platform",
+  "tests": [
+   "web",
+   "exploratory",
+   "mobile (Growth+)",
+   "API (Growth+)",
+   "voice (Growth+)"
+  ],
+  "pricing": "Starter, Growth, Enterprise: all 'Talk to us' (no public prices)",
+  "free_tier": null,
+  "open_source": false,
+  "integrations": [
+   "MCP, API and CLI access (Growth+)",
+   "PR testing (Growth+)"
+  ],
+  "source": "https://qa.tech/pricing",
+  "last_checked": "2026-10-21"
+ },
+ {
+  "slug": "testsigma",
+  "name": "Testsigma",
+  "url": "https://testsigma.com",
+  "category": "AI-powered test automation platform (Copilot + agents)",
+  "tests": [
+   "web",
+   "mobile",
+   "desktop",
+   "Salesforce"
+  ],
+  "pricing": "Pro and Enterprise: custom pricing (contact sales)",
+  "free_tier": null,
+  "open_source": false,
+  "integrations": [
+   "30+ integrations (Pro); 40+ (Enterprise)"
+  ],
+  "source": "https://testsigma.com/pricing",
+  "last_checked": "2026-10-21"
  }
 ]
