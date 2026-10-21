@@ -6,7 +6,7 @@
   ]
  },
  "mabl": {
-  "hash": "26090a03df4aba9f447e5a6786348b6ee6c3a7451c8d14706bfa5003a3489894",
+  "hash": "cb2eff9f08bd8eb98e36b6efdfe42b97cd3ba50585c460ce8a67fb68687b0425",
   "prices": []
  },
  "katalon": {
@@ -18,7 +18,7 @@
   "prices": []
  },
  "testmu-ai": {
-  "hash": "49f0ebc8661f2716cf40d5dc8f7c6042542e8d38b23319fa39951da29ca2b986",
+  "hash": "0f3cfcbe16fbbc3a581f22638f2e5e22dc1d83bf25810ebf11743562e834a3e4",
   "prices": [
    "$103/mo",
    "$139 /mo",
@@ -77,25 +77,49 @@
   "prices": []
  },
  "keploy": {
-  "hash": "27e7d35e0fe84b0f21f3be505a8613b5f6a9c0ecf2fb40c468d3544d3529550f",
+  "hash": "6c6e4dc60746bd77e59be7df96586857356da67fc4617bc880a695b6d2a3e42f",
   "prices": [
    "$19/user"
   ]
  },
  "playwright-mcp": {
-  "hash": "63dbc4a1a1f9f03767c0e6eb8d3d9d1c81dfb17ebfd9b34c7c416ac657b02dca",
+  "hash": "a952abb2a8e68a9bd55ff92cac017c110c577273f275d5db261813cf5031ca33",
   "prices": []
  },
  "stagehand": {
-  "hash": "dbe7cd8cbb2c8b6c70c4dd23867560d8660ce37a62f8ad58c2e4a6f5f6671003",
+  "hash": "7b08575aa4bbffc728d7601620aae124148ae76a744e65e73a8d9a35a0e2d0f0",
   "prices": []
  },
  "skyvern": {
-  "hash": "46cd9b14e6d1ca38543c3cfad85f76f0f9588b6d182baf8c5ae81e4149a27226",
+  "hash": "695e9a19e39946420e09d4beb43bdf9293589a0a757834f345c9fd9dab143bc0",
   "prices": []
  },
  "browser-use": {
-  "hash": "b429d7ad2b3be52ad7489e2a5b8a232a1fa2c0783a246ffa7dddad479978ece8",
+  "hash": "a60cb371a1d9ee3f2111f81e0e9ce77bccd3f1995c2e050d07454779d2353bbd",
+  "prices": []
+ },
+ "testrigor": {
+  "hash": "4e7de2bf6535679ab8c7b2e19bd13d5d485e1819d3f7a3031f8410cba87920ec",
+  "prices": []
+ },
+ "autonoma": {
+  "hash": "58f60bc8b37b13f104369ed310c9fa2b31653558800f12b44e08fc137b7ac04a",
+  "prices": []
+ },
+ "midscene": {
+  "hash": "26e7a8e2d31c21e7a0c84896baf818052dddeda4568af5a324308391e4af48a3",
+  "prices": []
+ },
+ "shortest": {
+  "hash": "067c4bd5a98ec5dab36566f2819d5ff38203f59e20a9e03d78eeb20aa0cdf7bf",
+  "prices": []
+ },
+ "qa-tech": {
+  "hash": "a11024329a4420f0ba801518c3fd1bf6e6a771782c72d12007cb9d52e8e99e3c",
+  "prices": []
+ },
+ "testsigma": {
+  "hash": "325fdb47a2d7d5ee21ca75a7fea90805772d36d4daa7b919dd6db9b95e7fed7e",
   "prices": []
  }
 }

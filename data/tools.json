@@ -15,7 +15,7 @@
    "CI (see site)"
   ],
   "source": "https://momentic.ai/pricing",
-  "last_checked": "2026-10-19"
+  "last_checked": "2026-10-21"
  },
  {
   "slug": "testrigor",
@@ -53,7 +53,7 @@
    "see site"
   ],
   "source": "https://www.mabl.com/pricing",
-  "last_checked": "2026-10-19"
+  "last_checked": "2026-10-21"
  },
  {
   "slug": "katalon",
@@ -73,7 +73,7 @@
    "see site"
   ],
   "source": "https://katalon.com/pricing",
-  "last_checked": "2026-10-19"
+  "last_checked": "2026-10-21"
  },
  {
   "slug": "browserstack-ai",
@@ -97,7 +97,7 @@
    "Appium"
   ],
   "source": "https://www.browserstack.com/pricing",
-  "last_checked": "2026-10-19"
+  "last_checked": "2026-10-21"
  },
  {
   "slug": "testmu-ai",
@@ -121,7 +121,7 @@
    "Appium"
   ],
   "source": "https://www.testmu.ai/pricing",
-  "last_checked": "2026-10-19"
+  "last_checked": "2026-10-21"
  },
  {
   "slug": "autonoma",
@@ -159,7 +159,7 @@
    "see site"
   ],
   "source": "https://qodex.ai",
-  "last_checked": "2026-10-19"
+  "last_checked": "2026-10-21"
  },
  {
   "slug": "qa-wolf",
@@ -178,7 +178,7 @@
    "Appium"
   ],
   "source": "https://www.qawolf.com/pricing",
-  "last_checked": "2026-10-19"
+  "last_checked": "2026-10-21"
  },
  {
   "slug": "functionize",
@@ -195,7 +195,7 @@
    "coding agents (Studio)"
   ],
   "source": "https://www.functionize.com/pricing",
-  "last_checked": "2026-10-19"
+  "last_checked": "2026-10-21"
  },
  {
   "slug": "applitools",
@@ -216,7 +216,7 @@
    "Cypress"
   ],
   "source": "https://applitools.com/pricing/",
-  "last_checked": "2026-10-19"
+  "last_checked": "2026-10-21"
  },
  {
   "slug": "reflect",
@@ -234,7 +234,7 @@
    "see site"
   ],
   "source": "https://reflect.run/pricing/",
-  "last_checked": "2026-10-19"
+  "last_checked": "2026-10-21"
  },
  {
   "slug": "virtuoso",
@@ -252,7 +252,7 @@
    "see site"
   ],
   "source": "https://www.virtuoso.qa/pricing",
-  "last_checked": "2026-10-19"
+  "last_checked": "2026-10-21"
  },
  {
   "slug": "checksum",
@@ -269,7 +269,7 @@
    "Playwright"
   ],
   "source": "https://www.checksum.ai",
-  "last_checked": "2026-10-19"
+  "last_checked": "2026-10-21"
  },
  {
   "slug": "keploy",
@@ -289,7 +289,7 @@
    "CI"
   ],
   "source": "https://keploy.io/pricing",
-  "last_checked": "2026-10-19"
+  "last_checked": "2026-10-21"
  },
  {
   "slug": "playwright-mcp",
@@ -307,7 +307,7 @@
    "MCP clients"
   ],
   "source": "https://github.com/microsoft/playwright-mcp",
-  "last_checked": "2026-10-19"
+  "last_checked": "2026-10-21"
  },
  {
   "slug": "stagehand",
@@ -325,7 +325,7 @@
    "Browserbase"
   ],
   "source": "https://github.com/browserbase/stagehand",
-  "last_checked": "2026-10-19"
+  "last_checked": "2026-10-21"
  },
  {
   "slug": "skyvern",
@@ -342,7 +342,7 @@
    "Playwright"
   ],
   "source": "https://github.com/Skyvern-AI/skyvern",
-  "last_checked": "2026-10-19"
+  "last_checked": "2026-10-21"
  },
  {
   "slug": "browser-use",
@@ -360,7 +360,7 @@
    "LLM providers"
   ],
   "source": "https://github.com/browser-use/browser-use",
-  "last_checked": "2026-10-19"
+  "last_checked": "2026-10-21"
  },
  {
   "slug": "midscene",
