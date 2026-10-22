@@ -150,16 +150,17 @@
   "url": "https://qodex.ai",
   "category": "AI API/continuous testing",
   "tests": [
-   "API"
+   "API",
+   "UI"
   ],
-  "pricing": "Not verified (pricing page not parsed)",
-  "free_tier": null,
+  "pricing": "Individual $0 per project/month (up to 25 test scenarios, 100 test runs/month); Startup from $1,299 per project/month; Scale from $2,500 per project/month",
+  "free_tier": true,
   "open_source": false,
   "integrations": [
    "see site"
   ],
-  "source": "https://qodex.ai",
-  "last_checked": "2026-10-21"
+  "source": "https://qodex.ai/pricing",
+  "last_checked": "2026-10-22"
  },
  {
   "slug": "qa-wolf",
@@ -446,5 +447,54 @@
   ],
   "source": "https://testsigma.com/pricing",
   "last_checked": "2026-10-21"
+ },
+ {
+  "slug": "alumnium",
+  "name": "Alumnium",
+  "url": "https://alumnium.ai",
+  "category": "AI-native E2E testing library & MCP server",
+  "tests": [
+   "web",
+   "mobile (via Appium/Maestro)"
+  ],
+  "pricing": "Free (MIT); needs your own LLM provider API key",
+  "free_tier": true,
+  "open_source": true,
+  "integrations": [
+   "Selenium",
+   "Playwright",
+   "Appium",
+   "Maestro",
+   "MCP",
+   "Python",
+   "TypeScript",
+   "Java"
+  ],
+  "source": "https://github.com/alumnium-hq/alumnium",
+  "last_checked": "2026-10-22"
+ },
+ {
+  "slug": "testzeus-hercules",
+  "name": "TestZeus Hercules",
+  "url": "https://testzeus.com/hercules",
+  "category": "Open-source AI testing agent (Gherkin to E2E)",
+  "tests": [
+   "web UI",
+   "API",
+   "security",
+   "accessibility",
+   "visual"
+  ],
+  "pricing": "Free (AGPL-3.0); needs your own LLM API key",
+  "free_tier": true,
+  "open_source": true,
+  "integrations": [
+   "Playwright",
+   "Gherkin/BDD",
+   "Docker",
+   "CI/CD"
+  ],
+  "source": "https://github.com/test-zeus-ai/testzeus-hercules",
+  "last_checked": "2026-10-22"
  }
 ]
