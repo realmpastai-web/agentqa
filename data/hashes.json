@@ -18,7 +18,7 @@
   "prices": []
  },
  "testmu-ai": {
-  "hash": "0f3cfcbe16fbbc3a581f22638f2e5e22dc1d83bf25810ebf11743562e834a3e4",
+  "hash": "54140ddcb2e47fae727f13559528a61f2708e8515941f081a471e301e8af3a0b",
   "prices": [
    "$103/mo",
    "$139 /mo",
@@ -44,11 +44,11 @@
   ]
  },
  "qodex": {
-  "hash": "40c5dc161b147b6a9b7fe677f8c68424702f8d63b4d6da51b5197d95412453c5",
+  "hash": "31a24372895ed4120252a7a5c56d5fea60f256f7a51edc00db00de154fa03bee",
   "prices": []
  },
  "qa-wolf": {
-  "hash": "81e0ae33210c1ee0c2bcbc851df703e7088713f15c065916aa5b8403feefd079",
+  "hash": "929d62380339980c55fe8aa476123c9526e1b1adba064b432b6d66b09f9ff263",
   "prices": []
  },
  "functionize": {
@@ -83,19 +83,19 @@
   ]
  },
  "playwright-mcp": {
-  "hash": "a952abb2a8e68a9bd55ff92cac017c110c577273f275d5db261813cf5031ca33",
+  "hash": "a2d59adb65fd66db7ff487d44b7776cfe1337c48755263264ea31d54be8e8ac9",
   "prices": []
  },
  "stagehand": {
-  "hash": "7b08575aa4bbffc728d7601620aae124148ae76a744e65e73a8d9a35a0e2d0f0",
+  "hash": "851bd4bef54504072fb6a8d1f1952f068b6e8c58ca6ec5e9119cf3b3d9e0a83d",
   "prices": []
  },
  "skyvern": {
-  "hash": "695e9a19e39946420e09d4beb43bdf9293589a0a757834f345c9fd9dab143bc0",
+  "hash": "52a34892af4841422b20a4dc13ad3cacf02b274460d0f21e22e66ca1c4f87e7d",
   "prices": []
  },
  "browser-use": {
-  "hash": "a60cb371a1d9ee3f2111f81e0e9ce77bccd3f1995c2e050d07454779d2353bbd",
+  "hash": "23732f083484b5dc857d0cef56f1a005313ec2f0d5048c5e380d7a2aeacb9865",
   "prices": []
  },
  "testrigor": {
@@ -107,7 +107,7 @@
   "prices": []
  },
  "midscene": {
-  "hash": "26e7a8e2d31c21e7a0c84896baf818052dddeda4568af5a324308391e4af48a3",
+  "hash": "b46f6b8cdc0e2368211b1098b548c635ddebf4315a981c6445965d64379f6ee3",
   "prices": []
  },
  "shortest": {
@@ -115,11 +115,19 @@
   "prices": []
  },
  "qa-tech": {
-  "hash": "a11024329a4420f0ba801518c3fd1bf6e6a771782c72d12007cb9d52e8e99e3c",
+  "hash": "a9353ae03748df78a4f4ab14ba76ea4e993186422783c1aa4f6e11ffaf728596",
   "prices": []
  },
  "testsigma": {
   "hash": "325fdb47a2d7d5ee21ca75a7fea90805772d36d4daa7b919dd6db9b95e7fed7e",
+  "prices": []
+ },
+ "alumnium": {
+  "hash": "3532dd0683910287f85882d65e47b5b2aea4549554e185f7f7d13a2d9b1c9c64",
+  "prices": []
+ },
+ "testzeus-hercules": {
+  "hash": "5773a9d32aa8578695f7a92e539dc423c57c507eda4dc98e03ba689fa7918800",
   "prices": []
  }
 }
