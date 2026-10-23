@@ -28,7 +28,7 @@ CATS=[('open-source-ai-testing-tools.html','Open-source AI testing tools',lambda
  ('playwright-ai-testing-tools.html','AI testing tools that work with Playwright',lambda t:any('playwright' in i.lower() for i in t['integrations']),'AI testing tools and agents built on or integrating with Playwright, from vendor and project pages.'),
  ('mobile-ai-testing-tools.html','AI testing tools for mobile apps',lambda t:any(k in ' '.join(t['tests']).lower() for k in ('mobile','android','ios')),'AI test-automation tools that list mobile, Android or iOS testing, per vendor pages.'),
  ('api-ai-testing-tools.html','AI tools for API testing',lambda t:any('api' in x.lower() for x in t['tests']),'AI testing tools that list API testing, with pricing and open-source status from vendor and project pages.')]
-VS=[('stagehand','browser-use'),('midscene','stagehand'),('playwright-mcp','stagehand'),('shortest','midscene'),('momentic','qa-tech'),('testrigor','testsigma'),('alumnium','midscene'),('testzeus-hercules','shortest')]
+VS=[('stagehand','browser-use'),('midscene','stagehand'),('playwright-mcp','stagehand'),('shortest','midscene'),('momentic','qa-tech'),('testrigor','testsigma'),('alumnium','midscene'),('testzeus-hercules','shortest'),('arbigent','midscene')]
 F=['category','tests','pricing','free_tier','open_source','integrations','last_checked']
 def vs(a,b):
   r=''.join(f"<tr><th>{k.replace('_',' ')}</th>"+''.join(f"<td>{e(', '.join(x[k]) if isinstance(x[k],list) else yn(x[k]) if x[k] in (True,False,None) else x[k])}</td>" for x in (a,b))+"</tr>" for k in F)
@@ -36,7 +36,7 @@ def vs(a,b):
   return f"<h1>{e(a['name'])} vs {e(b['name'])}</h1><p>Side-by-side facts taken only from each vendor's or project's own page (last checked dates shown). No ratings or reviews; '?' means not verified.</p><table><tr><th></th><th><a href=tools/{a['slug']}.html>{e(a['name'])}</a></th><th><a href=tools/{b['slug']}.html>{e(b['name'])}</a></th></tr>{r}</table>"
 G=[]
 for fn,t,f,d in CATS:
-  L=[x for x in D if f(x)];G.append((fn,t));w(fn,page(t,f"<h1>{e(t)} ({len(L)})</h1><p>{e(d)}</p>"+tbl(L),'',f"{len(L)} {d[0].lower()+d[1:]}",fn))
+  L=[x for x in D if f(x)];G.append((fn,t));w(fn,page(t,f"<h1>{e(t)} ({len(L)})</h1><p>{e(d)}</p>"+tbl(L),'',f"{len(L)} {d if d[:2]=='AI' else d[0].lower()+d[1:]}",fn))
 for a,b in VS:
   fn=f"{a}-vs-{b}.html";t=f"{B[a]['name']} vs {B[b]['name']}";G.append((fn,t))
   w(fn,page(t+': pricing, features & open source compared',vs(B[a],B[b]),'',f"{t}: category, pricing, free tier, open-source status and integrations compared side by side, from official pages.",fn))

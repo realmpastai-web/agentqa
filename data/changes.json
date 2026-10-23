@@ -148,5 +148,17 @@
   "name": "QA.tech",
   "what": "page content changed",
   "url": "https://qa.tech/pricing"
+ },
+ {
+  "date": "2026-10-23",
+  "name": "Autonoma",
+  "what": "license corrected: LICENSE.md is Business Source License 1.1 (source-available), not open source; vendor site still 404",
+  "url": "https://github.com/Autonoma-AI/autonoma"
+ },
+ {
+  "date": "2026-10-23",
+  "name": "Checksum",
+  "what": "pricing model verified: priced by number of workflows maintained, no public prices",
+  "url": "https://www.checksum.ai"
  }
 ]

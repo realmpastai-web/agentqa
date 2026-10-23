@@ -132,9 +132,9 @@
    "web",
    "mobile (Appium, dormant per docs)"
   ],
-  "pricing": "Hosted plans (vendor site getautonoma.com returned 404 on 2026-10-21; pricing not re-verified); self-host open source",
-  "free_tier": true,
-  "open_source": true,
+  "pricing": "Self-host: source-available under Business Source License 1.1 (production use allowed except offering a competing paid service; converts to Apache-2.0 on 23 Mar 2028, per LICENSE.md). Hosted plans: vendor site getautonoma.com returned 404 on 2026-10-21 and 2026-10-23, pricing not verified",
+  "free_tier": null,
+  "open_source": false,
   "integrations": [
    "GitHub App",
    "MCP server",
@@ -142,7 +142,8 @@
    "Appium"
   ],
   "source": "https://github.com/Autonoma-AI/autonoma",
-  "last_checked": "2026-10-22"
+  "last_checked": "2026-10-23",
+  "license": "BSL-1.1 (source-available, not OSI open source); change license Apache-2.0"
  },
  {
   "slug": "qodex",
@@ -261,16 +262,18 @@
   "url": "https://www.checksum.ai",
   "category": "AI-generated E2E tests",
   "tests": [
-   "web"
+   "web",
+   "API"
   ],
-  "pricing": "Not verified",
+  "pricing": "Results-as-a-Service: pricing based on number of workflows maintained; no public prices (request a demo)",
   "free_tier": null,
   "open_source": false,
   "integrations": [
-   "Playwright"
+   "Playwright",
+   "CI"
   ],
   "source": "https://www.checksum.ai",
-  "last_checked": "2026-10-22"
+  "last_checked": "2026-10-23"
  },
  {
   "slug": "keploy",
@@ -496,5 +499,53 @@
   ],
   "source": "https://github.com/test-zeus-ai/testzeus-hercules",
   "last_checked": "2026-10-22"
+ },
+ {
+  "slug": "arbigent",
+  "name": "Arbigent",
+  "url": "https://github.com/takahirom/arbigent",
+  "category": "AI agent testing framework (scenario-based)",
+  "tests": [
+   "Android",
+   "iOS",
+   "web",
+   "TV"
+  ],
+  "pricing": "Free (Apache-2.0); needs your own AI provider API key",
+  "free_tier": true,
+  "open_source": true,
+  "integrations": [
+   "Maestro YAML",
+   "MCP servers",
+   "CLI",
+   "YAML scenarios",
+   "Android Studio Journeys XML"
+  ],
+  "source": "https://github.com/takahirom/arbigent",
+  "last_checked": "2026-10-23"
+ },
+ {
+  "slug": "testdriver",
+  "name": "TestDriver",
+  "url": "https://testdriver.ai",
+  "category": "Computer-use AI agent for E2E / PR QA testing",
+  "tests": [
+   "web",
+   "Chrome extensions",
+   "VS Code extensions",
+   "Windows/Mac desktop apps (Enterprise)"
+  ],
+  "pricing": "Pro $20/month per seat + $0.14 per testing minute (cloud); 14-day free trial (or 120 testing minutes); Enterprise self-hosted custom pricing",
+  "free_tier": false,
+  "open_source": null,
+  "integrations": [
+   "GitHub PR reviews",
+   "JavaScript SDK",
+   "MCP server",
+   "VS Code extension"
+  ],
+  "license": "SDK repo github.com/testdriverai/testdriverai declares ISC in package.json; GitHub detects no LICENSE file",
+  "source": "https://testdriver.ai/pricing",
+  "last_checked": "2026-10-23"
  }
 ]
