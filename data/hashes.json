@@ -69,7 +69,7 @@
   "prices": []
  },
  "virtuoso": {
-  "hash": "015ff853bbfbb0d5b8603a565d5fad471b2149ea6592bc8a638b5ec5d7766b1f",
+  "hash": "e6e9013e3cbe1a312ff14724467947342f1c89888bb47f25635d45684fe837c5",
   "prices": []
  },
  "checksum": {
@@ -83,19 +83,19 @@
   ]
  },
  "playwright-mcp": {
-  "hash": "a2d59adb65fd66db7ff487d44b7776cfe1337c48755263264ea31d54be8e8ac9",
+  "hash": "07af1d2a56cc2fc2c9e572d6dc76e6731ec734f8272ff8a7404d9336f7447440",
   "prices": []
  },
  "stagehand": {
-  "hash": "851bd4bef54504072fb6a8d1f1952f068b6e8c58ca6ec5e9119cf3b3d9e0a83d",
+  "hash": "4983b1d7105dee1e6b873719b18be76ede73518c7173aa26c8db0adb78eeefa3",
   "prices": []
  },
  "skyvern": {
-  "hash": "52a34892af4841422b20a4dc13ad3cacf02b274460d0f21e22e66ca1c4f87e7d",
+  "hash": "3678acddc28053f35d258f140da179627078c0aafa8e77bcc08e5fd35c475b7c",
   "prices": []
  },
  "browser-use": {
-  "hash": "23732f083484b5dc857d0cef56f1a005313ec2f0d5048c5e380d7a2aeacb9865",
+  "hash": "947f12ef4186195df3fa9a55a978c116fdd7f6da24594e8c74b8bd3e6d34ba61",
   "prices": []
  },
  "testrigor": {
@@ -107,7 +107,7 @@
   "prices": []
  },
  "midscene": {
-  "hash": "b46f6b8cdc0e2368211b1098b548c635ddebf4315a981c6445965d64379f6ee3",
+  "hash": "d4d0b194b683e17827d52045d163f4939ed3311c6ed1c17af03d684fc0522b19",
   "prices": []
  },
  "shortest": {
@@ -115,7 +115,7 @@
   "prices": []
  },
  "qa-tech": {
-  "hash": "a9353ae03748df78a4f4ab14ba76ea4e993186422783c1aa4f6e11ffaf728596",
+  "hash": "68c5e7d2eea4ab191d85f743c70f00f6f161344cdebbcc2dc7291071cb5a86cb",
   "prices": []
  },
  "testsigma": {
@@ -123,11 +123,21 @@
   "prices": []
  },
  "alumnium": {
-  "hash": "3532dd0683910287f85882d65e47b5b2aea4549554e185f7f7d13a2d9b1c9c64",
+  "hash": "f22329eb57e054fe6a58c480bcea5e8a375b139f872ea91bb8a75011d7dd621c",
   "prices": []
  },
  "testzeus-hercules": {
-  "hash": "5773a9d32aa8578695f7a92e539dc423c57c507eda4dc98e03ba689fa7918800",
+  "hash": "7a80b35eeec8168ef171b085cf60c2da0cc7ebe051ff75e32f598c9f169a887d",
   "prices": []
+ },
+ "arbigent": {
+  "hash": "d5c87678764933938e8bbb854692b8a423bf2b54c5498b05d2e3e8270732d2f4",
+  "prices": []
+ },
+ "testdriver": {
+  "hash": "b7c5a6add118f1640440f7734dc6cd57f1c03f93004a146170f4a3df2eead76f",
+  "prices": [
+   "$20 / mo"
+  ]
  }
 }

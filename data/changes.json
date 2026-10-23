@@ -160,5 +160,59 @@
   "name": "Checksum",
   "what": "pricing model verified: priced by number of workflows maintained, no public prices",
   "url": "https://www.checksum.ai"
+ },
+ {
+  "date": "2026-10-23",
+  "name": "Virtuoso QA",
+  "what": "page content changed",
+  "url": "https://www.virtuoso.qa/pricing"
+ },
+ {
+  "date": "2026-10-23",
+  "name": "Playwright MCP",
+  "what": "page content changed",
+  "url": "https://github.com/microsoft/playwright-mcp"
+ },
+ {
+  "date": "2026-10-23",
+  "name": "Stagehand",
+  "what": "page content changed",
+  "url": "https://github.com/browserbase/stagehand"
+ },
+ {
+  "date": "2026-10-23",
+  "name": "Skyvern",
+  "what": "page content changed",
+  "url": "https://github.com/Skyvern-AI/skyvern"
+ },
+ {
+  "date": "2026-10-23",
+  "name": "Browser Use",
+  "what": "page content changed",
+  "url": "https://github.com/browser-use/browser-use"
+ },
+ {
+  "date": "2026-10-23",
+  "name": "Midscene.js",
+  "what": "page content changed",
+  "url": "https://github.com/web-infra-dev/midscene"
+ },
+ {
+  "date": "2026-10-23",
+  "name": "QA.tech",
+  "what": "page content changed",
+  "url": "https://qa.tech/pricing"
+ },
+ {
+  "date": "2026-10-23",
+  "name": "Alumnium",
+  "what": "page content changed",
+  "url": "https://github.com/alumnium-hq/alumnium"
+ },
+ {
+  "date": "2026-10-23",
+  "name": "TestZeus Hercules",
+  "what": "page content changed",
+  "url": "https://github.com/test-zeus-ai/testzeus-hercules"
  }
 ]
