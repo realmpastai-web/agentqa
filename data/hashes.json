@@ -139,5 +139,13 @@
   "prices": [
    "$20 / mo"
   ]
+ },
+ "maestro": {
+  "hash": "60892ae7c9e80d5c19cbc883593224f7b76d673be02efb96b65fa2e9ec66fd49",
+  "prices": []
+ },
+ "testerarmy-e2e": {
+  "hash": "7fbd9177f03dd1979528dd9a60d1ef9caea8c7263636db316f8c50e1e56e0bd1",
+  "prices": []
  }
 }
