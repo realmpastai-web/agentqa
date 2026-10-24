@@ -15,7 +15,7 @@
    "CI (see site)"
   ],
   "source": "https://momentic.ai/pricing",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "testrigor",
@@ -34,7 +34,7 @@
    "see site"
   ],
   "source": "https://testrigor.com/sign-up/",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "mabl",
@@ -53,7 +53,7 @@
    "see site"
   ],
   "source": "https://www.mabl.com/pricing",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "katalon",
@@ -73,7 +73,7 @@
    "see site"
   ],
   "source": "https://katalon.com/pricing",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "browserstack-ai",
@@ -97,7 +97,7 @@
    "Appium"
   ],
   "source": "https://www.browserstack.com/pricing",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "testmu-ai",
@@ -121,7 +121,7 @@
    "Appium"
   ],
   "source": "https://www.testmu.ai/pricing",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "autonoma",
@@ -142,7 +142,7 @@
    "Appium"
   ],
   "source": "https://github.com/Autonoma-AI/autonoma",
-  "last_checked": "2026-10-23",
+  "last_checked": "2026-10-24",
   "license": "BSL-1.1 (source-available, not OSI open source); change license Apache-2.0"
  },
  {
@@ -161,7 +161,7 @@
    "see site"
   ],
   "source": "https://qodex.ai/pricing",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "qa-wolf",
@@ -170,9 +170,10 @@
   "category": "AI testing platform / managed QA",
   "tests": [
    "web",
-   "mobile"
+   "mobile (iOS, Android)",
+   "desktop (Windows, macOS)"
   ],
-  "pricing": "Contact sales; tests written in open-source Playwright/Appium",
+  "pricing": "Pay per test run (up to 5 min each, longer runs billed in 5-min blocks): web/Linux Electron $1, mobile $2, desktop $2; unlimited AI usage, no per-seat fees; free runs for new teams; volume pricing, Jump Start and Coverage-as-a-Service via sales",
   "free_tier": false,
   "open_source": false,
   "integrations": [
@@ -180,7 +181,7 @@
    "Appium"
   ],
   "source": "https://www.qawolf.com/pricing",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "functionize",
@@ -197,7 +198,7 @@
    "coding agents (Studio)"
   ],
   "source": "https://www.functionize.com/pricing",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "applitools",
@@ -218,7 +219,7 @@
    "Cypress"
   ],
   "source": "https://applitools.com/pricing/",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "reflect",
@@ -236,7 +237,7 @@
    "see site"
   ],
   "source": "https://reflect.run/pricing/",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "virtuoso",
@@ -254,7 +255,7 @@
    "see site"
   ],
   "source": "https://www.virtuoso.qa/pricing",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "checksum",
@@ -273,7 +274,7 @@
    "CI"
   ],
   "source": "https://www.checksum.ai",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "keploy",
@@ -293,7 +294,7 @@
    "CI"
   ],
   "source": "https://keploy.io/pricing",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "playwright-mcp",
@@ -311,7 +312,7 @@
    "MCP clients"
   ],
   "source": "https://github.com/microsoft/playwright-mcp",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "stagehand",
@@ -329,7 +330,7 @@
    "Browserbase"
   ],
   "source": "https://github.com/browserbase/stagehand",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "skyvern",
@@ -346,7 +347,7 @@
    "Playwright"
   ],
   "source": "https://github.com/Skyvern-AI/skyvern",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "browser-use",
@@ -364,7 +365,7 @@
    "LLM providers"
   ],
   "source": "https://github.com/browser-use/browser-use",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "midscene",
@@ -387,7 +388,7 @@
    "YAML test cases"
   ],
   "source": "https://github.com/web-infra-dev/midscene",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "shortest",
@@ -407,7 +408,7 @@
    "Mailosaur"
   ],
   "source": "https://github.com/antiwork/shortest",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "qa-tech",
@@ -429,7 +430,7 @@
    "PR testing (Growth+)"
   ],
   "source": "https://qa.tech/pricing",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "testsigma",
@@ -449,7 +450,7 @@
    "30+ integrations (Pro); 40+ (Enterprise)"
   ],
   "source": "https://testsigma.com/pricing",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "alumnium",
@@ -474,7 +475,7 @@
    "Java"
   ],
   "source": "https://github.com/alumnium-hq/alumnium",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "testzeus-hercules",
@@ -498,7 +499,7 @@
    "CI/CD"
   ],
   "source": "https://github.com/test-zeus-ai/testzeus-hercules",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "arbigent",
@@ -522,7 +523,7 @@
    "Android Studio Journeys XML"
   ],
   "source": "https://github.com/takahirom/arbigent",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
  },
  {
   "slug": "testdriver",
@@ -546,6 +547,55 @@
   ],
   "license": "SDK repo github.com/testdriverai/testdriverai declares ISC in package.json; GitHub detects no LICENSE file",
   "source": "https://testdriver.ai/pricing",
-  "last_checked": "2026-10-23"
+  "last_checked": "2026-10-24"
+ },
+ {
+  "slug": "maestro",
+  "name": "Maestro",
+  "url": "https://maestro.dev",
+  "category": "Mobile & web E2E testing framework with MCP for coding agents",
+  "tests": [
+   "Android",
+   "iOS",
+   "web"
+  ],
+  "pricing": "Local: free and open source (CLI, Studio, MCP); Cloud: $250/device/month (based on max concurrent executions), 7-day free cloud trial; Enterprise Cloud: custom pricing",
+  "free_tier": true,
+  "open_source": true,
+  "integrations": [
+   "Maestro MCP (Claude Code, Cursor, Codex, Gemini CLI, Copilot or any MCP client)",
+   "Maestro Studio",
+   "Maestro CLI",
+   "YAML flows",
+   "CI integration (Cloud)",
+   "PR/MR integration (Cloud)"
+  ],
+  "license": "Apache-2.0 (github.com/mobile-dev-inc/Maestro); Maestro Studio desktop is free but not open source",
+  "source": "https://maestro.dev/pricing",
+  "last_checked": "2026-10-24"
+ },
+ {
+  "slug": "testerarmy-e2e",
+  "name": "TesterArmy e2e",
+  "url": "https://tester.army/e2e",
+  "category": "Natural-language AI E2E testing framework (web & mobile)",
+  "tests": [
+   "web",
+   "iOS",
+   "Android"
+  ],
+  "pricing": "Free (Apache-2.0); bring your own subscription, API key or local model",
+  "free_tier": true,
+  "open_source": true,
+  "integrations": [
+   "Playwright (Chromium, Firefox, WebKit)",
+   "iOS simulators / Android emulators",
+   "GitHub PR comment reporter",
+   "TestMu AI hosted devices",
+   "Kernel / Lightpanda hosted browsers"
+  ],
+  "license": "Apache-2.0; pre-1.0, APIs may change between minor releases (per README)",
+  "source": "https://github.com/tester-army/e2e",
+  "last_checked": "2026-10-24"
  }
 ]

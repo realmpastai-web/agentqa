@@ -214,5 +214,77 @@
   "name": "TestZeus Hercules",
   "what": "page content changed",
   "url": "https://github.com/test-zeus-ai/testzeus-hercules"
+ },
+ {
+  "date": "2026-10-24",
+  "name": "Autonoma",
+  "what": "page content changed",
+  "url": "https://github.com/Autonoma-AI/autonoma"
+ },
+ {
+  "date": "2026-10-24",
+  "name": "Qodex",
+  "what": "page content changed",
+  "url": "https://qodex.ai/pricing"
+ },
+ {
+  "date": "2026-10-24",
+  "name": "QA Wolf",
+  "what": "page content changed",
+  "url": "https://www.qawolf.com/pricing"
+ },
+ {
+  "date": "2026-10-24",
+  "name": "Playwright MCP",
+  "what": "page content changed",
+  "url": "https://github.com/microsoft/playwright-mcp"
+ },
+ {
+  "date": "2026-10-24",
+  "name": "Stagehand",
+  "what": "page content changed",
+  "url": "https://github.com/browserbase/stagehand"
+ },
+ {
+  "date": "2026-10-24",
+  "name": "Skyvern",
+  "what": "page content changed",
+  "url": "https://github.com/Skyvern-AI/skyvern"
+ },
+ {
+  "date": "2026-10-24",
+  "name": "Browser Use",
+  "what": "page content changed",
+  "url": "https://github.com/browser-use/browser-use"
+ },
+ {
+  "date": "2026-10-24",
+  "name": "Midscene.js",
+  "what": "page content changed",
+  "url": "https://github.com/web-infra-dev/midscene"
+ },
+ {
+  "date": "2026-10-24",
+  "name": "Shortest",
+  "what": "page content changed",
+  "url": "https://github.com/antiwork/shortest"
+ },
+ {
+  "date": "2026-10-24",
+  "name": "Alumnium",
+  "what": "page content changed",
+  "url": "https://github.com/alumnium-hq/alumnium"
+ },
+ {
+  "date": "2026-10-24",
+  "name": "TestZeus Hercules",
+  "what": "page content changed",
+  "url": "https://github.com/test-zeus-ai/testzeus-hercules"
+ },
+ {
+  "date": "2026-10-24",
+  "name": "Arbigent",
+  "what": "page content changed",
+  "url": "https://github.com/takahirom/arbigent"
  }
 ]

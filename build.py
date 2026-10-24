@@ -27,8 +27,9 @@ CATS=[('open-source-ai-testing-tools.html','Open-source AI testing tools',lambda
  ('free-ai-testing-tools.html','AI testing tools with a free plan',lambda t:t['free_tier'] is True,'AI test-automation tools that offer a free plan or are free to use, per each vendor\'s pricing page.'),
  ('playwright-ai-testing-tools.html','AI testing tools that work with Playwright',lambda t:any('playwright' in i.lower() for i in t['integrations']),'AI testing tools and agents built on or integrating with Playwright, from vendor and project pages.'),
  ('mobile-ai-testing-tools.html','AI testing tools for mobile apps',lambda t:any(k in ' '.join(t['tests']).lower() for k in ('mobile','android','ios')),'AI test-automation tools that list mobile, Android or iOS testing, per vendor pages.'),
+ ('mcp-ai-testing-tools.html','AI testing tools with an MCP server',lambda t:any('mcp' in i.lower() for i in t['integrations']),'AI test-automation tools that ship or integrate an MCP server so coding agents can drive tests, per vendor and project pages.'),
  ('api-ai-testing-tools.html','AI tools for API testing',lambda t:any('api' in x.lower() for x in t['tests']),'AI testing tools that list API testing, with pricing and open-source status from vendor and project pages.')]
-VS=[('stagehand','browser-use'),('midscene','stagehand'),('playwright-mcp','stagehand'),('shortest','midscene'),('momentic','qa-tech'),('testrigor','testsigma'),('alumnium','midscene'),('testzeus-hercules','shortest'),('arbigent','midscene')]
+VS=[('stagehand','browser-use'),('midscene','stagehand'),('playwright-mcp','stagehand'),('shortest','midscene'),('momentic','qa-tech'),('testrigor','testsigma'),('alumnium','midscene'),('testzeus-hercules','shortest'),('arbigent','midscene'),('maestro','arbigent'),('testerarmy-e2e','midscene')]
 F=['category','tests','pricing','free_tier','open_source','integrations','last_checked']
 def vs(a,b):
   r=''.join(f"<tr><th>{k.replace('_',' ')}</th>"+''.join(f"<td>{e(', '.join(x[k]) if isinstance(x[k],list) else yn(x[k]) if x[k] in (True,False,None) else x[k])}</td>" for x in (a,b))+"</tr>" for k in F)

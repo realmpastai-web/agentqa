@@ -44,11 +44,11 @@
   ]
  },
  "qodex": {
-  "hash": "31a24372895ed4120252a7a5c56d5fea60f256f7a51edc00db00de154fa03bee",
+  "hash": "69542434e0802e409b4b0b1252feb1e5beeedb32eeda47ab2f3a1f3ce2a6db0a",
   "prices": []
  },
  "qa-wolf": {
-  "hash": "929d62380339980c55fe8aa476123c9526e1b1adba064b432b6d66b09f9ff263",
+  "hash": "1d97e928c123dcec591edfc2ae3e70c8a7b00137562eb25b53b09c5cc41f4714",
   "prices": []
  },
  "functionize": {
@@ -83,19 +83,19 @@
   ]
  },
  "playwright-mcp": {
-  "hash": "07af1d2a56cc2fc2c9e572d6dc76e6731ec734f8272ff8a7404d9336f7447440",
+  "hash": "a92196322dce0ada105198f8163de8fff806dc68a9fd3747b47b2de0a13eb290",
   "prices": []
  },
  "stagehand": {
-  "hash": "4983b1d7105dee1e6b873719b18be76ede73518c7173aa26c8db0adb78eeefa3",
+  "hash": "33814759f45d5640ebe258d531ab34099f016de80b3a84105c65e100678bd58b",
   "prices": []
  },
  "skyvern": {
-  "hash": "3678acddc28053f35d258f140da179627078c0aafa8e77bcc08e5fd35c475b7c",
+  "hash": "68cc91313796d6333574e6702f84d0c8f04895b3496e905337ef2991826efb88",
   "prices": []
  },
  "browser-use": {
-  "hash": "947f12ef4186195df3fa9a55a978c116fdd7f6da24594e8c74b8bd3e6d34ba61",
+  "hash": "cbf82f9ad352ab55a1ef52efd49a15970aa0954aef051ae389ba5d194a4ae516",
   "prices": []
  },
  "testrigor": {
@@ -103,15 +103,15 @@
   "prices": []
  },
  "autonoma": {
-  "hash": "58f60bc8b37b13f104369ed310c9fa2b31653558800f12b44e08fc137b7ac04a",
+  "hash": "4bd6b52f63737c4da34c5ff6d810f4dbfc5c24a3d6ef6098dc6e429ee228d453",
   "prices": []
  },
  "midscene": {
-  "hash": "d4d0b194b683e17827d52045d163f4939ed3311c6ed1c17af03d684fc0522b19",
+  "hash": "63b5077f866c3df1244e9cde805a09eaf51837f4d7d06e42ea11e6aa1c8f7b07",
   "prices": []
  },
  "shortest": {
-  "hash": "067c4bd5a98ec5dab36566f2819d5ff38203f59e20a9e03d78eeb20aa0cdf7bf",
+  "hash": "6bdc8ce3bee2d575869322093b7ae24c350324c512d1dd8bde7af859b0906549",
   "prices": []
  },
  "qa-tech": {
@@ -123,15 +123,15 @@
   "prices": []
  },
  "alumnium": {
-  "hash": "f22329eb57e054fe6a58c480bcea5e8a375b139f872ea91bb8a75011d7dd621c",
+  "hash": "e59f516e5dc8ef6b5937492959730ef892baf694f1c0654a7bd62f7dced92dc7",
   "prices": []
  },
  "testzeus-hercules": {
-  "hash": "7a80b35eeec8168ef171b085cf60c2da0cc7ebe051ff75e32f598c9f169a887d",
+  "hash": "cec3ab8f523f17331407c45cf3b288dc2e2243c77e165d436b5e4817df037df9",
   "prices": []
  },
  "arbigent": {
-  "hash": "d5c87678764933938e8bbb854692b8a423bf2b54c5498b05d2e3e8270732d2f4",
+  "hash": "1e1542274b6ff5d1cf83acc3ff46dd2f2503ec25927a11f8cb37a202fcc04243",
   "prices": []
  },
  "testdriver": {
