@@ -83,19 +83,19 @@
   ]
  },
  "playwright-mcp": {
-  "hash": "a92196322dce0ada105198f8163de8fff806dc68a9fd3747b47b2de0a13eb290",
+  "hash": "c896bdf77b48f9654cd0a8f5c77a0c8b05476cbcf533002ae8cad0ddb84a9b62",
   "prices": []
  },
  "stagehand": {
-  "hash": "33814759f45d5640ebe258d531ab34099f016de80b3a84105c65e100678bd58b",
+  "hash": "cb17b16e2d2d6db6d119b03e671741f08f0c229a972ccabbd67cbdc33c1123dd",
   "prices": []
  },
  "skyvern": {
-  "hash": "68cc91313796d6333574e6702f84d0c8f04895b3496e905337ef2991826efb88",
+  "hash": "a9173411046e39a79bc861b09a7a2460111ceb6adbd5563dcce1540e74189a9d",
   "prices": []
  },
  "browser-use": {
-  "hash": "cbf82f9ad352ab55a1ef52efd49a15970aa0954aef051ae389ba5d194a4ae516",
+  "hash": "0b4d51114a7018a342d098d06f95a8f8000171b12634dd3dba009d5e85be2e7a",
   "prices": []
  },
  "testrigor": {
@@ -107,11 +107,11 @@
   "prices": []
  },
  "midscene": {
-  "hash": "63b5077f866c3df1244e9cde805a09eaf51837f4d7d06e42ea11e6aa1c8f7b07",
+  "hash": "e459d9f912ad48214f65416f98a1ab44ac0344222fbcd7f696da589abb4190b7",
   "prices": []
  },
  "shortest": {
-  "hash": "6bdc8ce3bee2d575869322093b7ae24c350324c512d1dd8bde7af859b0906549",
+  "hash": "dc64047086a91c955e2d0a7d78af48d83fb480b57f65fb8aefd4317bc9dfcc40",
   "prices": []
  },
  "qa-tech": {
@@ -127,7 +127,7 @@
   "prices": []
  },
  "testzeus-hercules": {
-  "hash": "cec3ab8f523f17331407c45cf3b288dc2e2243c77e165d436b5e4817df037df9",
+  "hash": "ac965f56ecee4c0927612c459fccccfb97f9edac45f4b294852281618ab023c0",
   "prices": []
  },
  "arbigent": {
@@ -145,7 +145,18 @@
   "prices": []
  },
  "testerarmy-e2e": {
-  "hash": "7fbd9177f03dd1979528dd9a60d1ef9caea8c7263636db316f8c50e1e56e0bd1",
+  "hash": "116edd92938b65c9c943738588ad3dfb07d7b398916452ba97b1c723d3fc9e11",
   "prices": []
+ },
+ "endtest": {
+  "hash": "9a99997dd76cce177c80e680fa78201025e775bc73ed309529546df5faf09d0e",
+  "prices": []
+ },
+ "bug0": {
+  "hash": "4eed87869fcd433f8631b5572011c89d3a1fb9427d0bde17e64ddf88313ab63d",
+  "prices": [
+   "$2,500 /mo",
+   "$2,500/mo"
+  ]
  }
 }
