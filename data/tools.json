@@ -15,7 +15,7 @@
    "CI (see site)"
   ],
   "source": "https://momentic.ai/pricing",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "testrigor",
@@ -34,7 +34,7 @@
    "see site"
   ],
   "source": "https://testrigor.com/sign-up/",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "mabl",
@@ -53,7 +53,7 @@
    "see site"
   ],
   "source": "https://www.mabl.com/pricing",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "katalon",
@@ -73,7 +73,7 @@
    "see site"
   ],
   "source": "https://katalon.com/pricing",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "browserstack-ai",
@@ -97,7 +97,7 @@
    "Appium"
   ],
   "source": "https://www.browserstack.com/pricing",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "testmu-ai",
@@ -121,7 +121,7 @@
    "Appium"
   ],
   "source": "https://www.testmu.ai/pricing",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "autonoma",
@@ -142,7 +142,7 @@
    "Appium"
   ],
   "source": "https://github.com/Autonoma-AI/autonoma",
-  "last_checked": "2026-10-25",
+  "last_checked": "2026-10-26",
   "license": "BSL-1.1 (source-available, not OSI open source); change license Apache-2.0"
  },
  {
@@ -152,7 +152,8 @@
   "category": "AI API/continuous testing",
   "tests": [
    "API",
-   "UI"
+   "UI",
+   "security"
   ],
   "pricing": "Individual $0 per project/month (up to 25 test scenarios, 100 test runs/month); Startup from $1,299 per project/month; Scale from $2,500 per project/month",
   "free_tier": true,
@@ -161,7 +162,7 @@
    "see site"
   ],
   "source": "https://qodex.ai/pricing",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "qa-wolf",
@@ -181,7 +182,7 @@
    "Appium"
   ],
   "source": "https://www.qawolf.com/pricing",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "functionize",
@@ -198,7 +199,7 @@
    "coding agents (Studio)"
   ],
   "source": "https://www.functionize.com/pricing",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "applitools",
@@ -219,7 +220,7 @@
    "Cypress"
   ],
   "source": "https://applitools.com/pricing/",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "reflect",
@@ -237,7 +238,7 @@
    "see site"
   ],
   "source": "https://reflect.run/pricing/",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "virtuoso",
@@ -255,7 +256,7 @@
    "see site"
   ],
   "source": "https://www.virtuoso.qa/pricing",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "checksum",
@@ -274,7 +275,7 @@
    "CI"
   ],
   "source": "https://www.checksum.ai",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "keploy",
@@ -286,7 +287,7 @@
    "integration",
    "unit"
   ],
-  "pricing": "Free Playground; Pro per user/mo + usage; Enterprise (Apache-2.0 OSS core)",
+  "pricing": "Free Playground (free forever); Pro $19/user/mo + additional usage (includes $19 usage credit; overage e.g. $0.16/test gen, $0.22/test run); Enterprise custom (Apache-2.0 OSS core)",
   "free_tier": true,
   "open_source": true,
   "integrations": [
@@ -294,7 +295,7 @@
    "CI"
   ],
   "source": "https://keploy.io/pricing",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "playwright-mcp",
@@ -312,7 +313,7 @@
    "MCP clients"
   ],
   "source": "https://github.com/microsoft/playwright-mcp",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "stagehand",
@@ -330,7 +331,7 @@
    "Browserbase"
   ],
   "source": "https://github.com/browserbase/stagehand",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "skyvern",
@@ -347,7 +348,7 @@
    "Playwright"
   ],
   "source": "https://github.com/Skyvern-AI/skyvern",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "browser-use",
@@ -365,7 +366,7 @@
    "LLM providers"
   ],
   "source": "https://github.com/browser-use/browser-use",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "midscene",
@@ -388,7 +389,7 @@
    "YAML test cases"
   ],
   "source": "https://github.com/web-infra-dev/midscene",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "shortest",
@@ -408,7 +409,7 @@
    "Mailosaur"
   ],
   "source": "https://github.com/antiwork/shortest",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "qa-tech",
@@ -430,7 +431,7 @@
    "PR testing (Growth+)"
   ],
   "source": "https://qa.tech/pricing",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "testsigma",
@@ -450,7 +451,7 @@
    "30+ integrations (Pro); 40+ (Enterprise)"
   ],
   "source": "https://testsigma.com/pricing",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "alumnium",
@@ -475,7 +476,7 @@
    "Java"
   ],
   "source": "https://github.com/alumnium-hq/alumnium",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "testzeus-hercules",
@@ -499,7 +500,7 @@
    "CI/CD"
   ],
   "source": "https://github.com/test-zeus-ai/testzeus-hercules",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "arbigent",
@@ -523,7 +524,7 @@
    "Android Studio Journeys XML"
   ],
   "source": "https://github.com/takahirom/arbigent",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "testdriver",
@@ -547,7 +548,7 @@
   ],
   "license": "SDK repo github.com/testdriverai/testdriverai declares ISC in package.json; GitHub detects no LICENSE file",
   "source": "https://testdriver.ai/pricing",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "maestro",
@@ -572,7 +573,7 @@
   ],
   "license": "Apache-2.0 (github.com/mobile-dev-inc/Maestro); Maestro Studio desktop is free but not open source",
   "source": "https://maestro.dev/pricing",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "testerarmy-e2e",
@@ -596,7 +597,7 @@
   ],
   "license": "Apache-2.0; pre-1.0, APIs may change between minor releases (per README)",
   "source": "https://github.com/tester-army/e2e",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "endtest",
@@ -620,7 +621,7 @@
    "Endtest MCP"
   ],
   "source": "https://endtest.io/pricing",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
  },
  {
   "slug": "bug0",
@@ -642,6 +643,49 @@
   ],
   "license": "Managed service is commercial; its test engine Bug0 AI (github.com/bug0inc/qa-agent) is source-available under FSL-1.1-ALv2 (not an OSI open-source license)",
   "source": "https://bug0.com/pricing",
-  "last_checked": "2026-10-25"
+  "last_checked": "2026-10-26"
+ },
+ {
+  "slug": "ranger",
+  "name": "Ranger",
+  "url": "https://www.ranger.net",
+  "category": "AI QA agent that verifies coding-agent work in a browser",
+  "tests": [
+   "web (browser feature verification)"
+  ],
+  "pricing": "Free Forever (5 reviews, self-serve install); Growth $50/month/user (unlimited reviews); Enterprise usage-based (contact sales)",
+  "free_tier": true,
+  "open_source": null,
+  "integrations": [
+   "CLI (ranger go)",
+   "coding agents"
+  ],
+  "source": "https://www.ranger.net/pricing",
+  "last_checked": "2026-10-26"
+ },
+ {
+  "slug": "donobu",
+  "name": "Donobu",
+  "url": "https://www.donobu.com",
+  "category": "AI test authoring studio + managed continuous QA",
+  "tests": [
+   "web (functional)",
+   "API",
+   "exploratory",
+   "mobile (Android, iOS)",
+   "localization",
+   "content"
+  ],
+  "pricing": "Community $0/month (manual recorder, AI authoring in Donobu Studio, bring your own AI model); Professional $34/month billed yearly (500 credits, Playwright code export, API, MCP); Premium Teams from $5,500/mo (managed QA)",
+  "free_tier": true,
+  "open_source": null,
+  "integrations": [
+   "Playwright (code export)",
+   "MCP (Claude Code, Cursor)",
+   "GitHub/GitLab actions (Premium Teams)",
+   "Slack/Teams reporting (Premium Teams)"
+  ],
+  "source": "https://www.donobu.com/pricing",
+  "last_checked": "2026-10-26"
  }
 ]

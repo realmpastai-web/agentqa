@@ -334,5 +334,59 @@
   "name": "TesterArmy e2e",
   "what": "page content changed",
   "url": "https://github.com/tester-army/e2e"
+ },
+ {
+  "date": "2026-10-26",
+  "name": "Autonoma",
+  "what": "page content changed",
+  "url": "https://github.com/Autonoma-AI/autonoma"
+ },
+ {
+  "date": "2026-10-26",
+  "name": "Qodex",
+  "what": "page content changed",
+  "url": "https://qodex.ai/pricing"
+ },
+ {
+  "date": "2026-10-26",
+  "name": "Keploy",
+  "what": "page content changed",
+  "url": "https://keploy.io/pricing"
+ },
+ {
+  "date": "2026-10-26",
+  "name": "Playwright MCP",
+  "what": "page content changed",
+  "url": "https://github.com/microsoft/playwright-mcp"
+ },
+ {
+  "date": "2026-10-26",
+  "name": "Stagehand",
+  "what": "page content changed",
+  "url": "https://github.com/browserbase/stagehand"
+ },
+ {
+  "date": "2026-10-26",
+  "name": "Skyvern",
+  "what": "page content changed",
+  "url": "https://github.com/Skyvern-AI/skyvern"
+ },
+ {
+  "date": "2026-10-26",
+  "name": "Browser Use",
+  "what": "page content changed",
+  "url": "https://github.com/browser-use/browser-use"
+ },
+ {
+  "date": "2026-10-26",
+  "name": "Alumnium",
+  "what": "page content changed",
+  "url": "https://github.com/alumnium-hq/alumnium"
+ },
+ {
+  "date": "2026-10-26",
+  "name": "TesterArmy e2e",
+  "what": "page content changed",
+  "url": "https://github.com/tester-army/e2e"
  }
 ]

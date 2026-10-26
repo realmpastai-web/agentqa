@@ -44,7 +44,7 @@
   ]
  },
  "qodex": {
-  "hash": "69542434e0802e409b4b0b1252feb1e5beeedb32eeda47ab2f3a1f3ce2a6db0a",
+  "hash": "efd7126d831eef354b789e6e58116ddea55c507aa8fb537396837eb5eae2bd48",
   "prices": []
  },
  "qa-wolf": {
@@ -77,25 +77,25 @@
   "prices": []
  },
  "keploy": {
-  "hash": "6c6e4dc60746bd77e59be7df96586857356da67fc4617bc880a695b6d2a3e42f",
+  "hash": "4d02a380041990c6fd340aa275b8fbffc7d74e619f6560efc6cff641ac69a32b",
   "prices": [
    "$19/user"
   ]
  },
  "playwright-mcp": {
-  "hash": "c896bdf77b48f9654cd0a8f5c77a0c8b05476cbcf533002ae8cad0ddb84a9b62",
+  "hash": "f9dd53a6addca02dddb939d4fdfc58531d402ab9c5200ff0db7d79a5f2f2b757",
   "prices": []
  },
  "stagehand": {
-  "hash": "cb17b16e2d2d6db6d119b03e671741f08f0c229a972ccabbd67cbdc33c1123dd",
+  "hash": "00e98c333619c5538627612dc3649d762ede1ca21ea8e4984fb06c6879f097c8",
   "prices": []
  },
  "skyvern": {
-  "hash": "a9173411046e39a79bc861b09a7a2460111ceb6adbd5563dcce1540e74189a9d",
+  "hash": "2fb6972491b43160df8701803b10eaab68d3f59139a3a023e10ed514c93c189d",
   "prices": []
  },
  "browser-use": {
-  "hash": "0b4d51114a7018a342d098d06f95a8f8000171b12634dd3dba009d5e85be2e7a",
+  "hash": "2a13d57815419378ff0ded87b4733d16bf85abfbeb486976e166f41c5d1a00eb",
   "prices": []
  },
  "testrigor": {
@@ -103,7 +103,7 @@
   "prices": []
  },
  "autonoma": {
-  "hash": "4bd6b52f63737c4da34c5ff6d810f4dbfc5c24a3d6ef6098dc6e429ee228d453",
+  "hash": "15115409a845cd4fb936560414993c9e2ecffb93769dc96c630cc9863497f51d",
   "prices": []
  },
  "midscene": {
@@ -123,7 +123,7 @@
   "prices": []
  },
  "alumnium": {
-  "hash": "e59f516e5dc8ef6b5937492959730ef892baf694f1c0654a7bd62f7dced92dc7",
+  "hash": "5e08debeb3568a970936c2cb71b6976f39fd35126de0444cb7321ce8c97ca8f5",
   "prices": []
  },
  "testzeus-hercules": {
@@ -145,7 +145,7 @@
   "prices": []
  },
  "testerarmy-e2e": {
-  "hash": "116edd92938b65c9c943738588ad3dfb07d7b398916452ba97b1c723d3fc9e11",
+  "hash": "8b18c398317cd803392496e65db9d8ff91d02755b1e79400d8fbc1f29e96993d",
   "prices": []
  },
  "endtest": {
