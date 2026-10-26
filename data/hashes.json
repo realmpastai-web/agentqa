@@ -18,7 +18,7 @@
   "prices": []
  },
  "testmu-ai": {
-  "hash": "54140ddcb2e47fae727f13559528a61f2708e8515941f081a471e301e8af3a0b",
+  "hash": "46dbf6e5dab90ba6ca01ea8f48b2cef35d72278ff23a05ed18b76beef90a3d28",
   "prices": [
    "$103/mo",
    "$139 /mo",
@@ -83,11 +83,11 @@
   ]
  },
  "playwright-mcp": {
-  "hash": "f9dd53a6addca02dddb939d4fdfc58531d402ab9c5200ff0db7d79a5f2f2b757",
+  "hash": "4126e20a1e30aa3686c03f9ca21ce2a3f3bc210ce64703d18df81425f2dbaf8e",
   "prices": []
  },
  "stagehand": {
-  "hash": "00e98c333619c5538627612dc3649d762ede1ca21ea8e4984fb06c6879f097c8",
+  "hash": "5ea89f79b4d45a75f4633bdafce80805e13f3d0d8b89b1de9535b553bd318645",
   "prices": []
  },
  "skyvern": {
@@ -95,7 +95,7 @@
   "prices": []
  },
  "browser-use": {
-  "hash": "2a13d57815419378ff0ded87b4733d16bf85abfbeb486976e166f41c5d1a00eb",
+  "hash": "b0a9ac49a608cdc63bdf632c7e9d985d0639159ce2440b85e475f7798752c7fc",
   "prices": []
  },
  "testrigor": {
@@ -107,7 +107,7 @@
   "prices": []
  },
  "midscene": {
-  "hash": "e459d9f912ad48214f65416f98a1ab44ac0344222fbcd7f696da589abb4190b7",
+  "hash": "03936c65b59377b19219c6626ca3cae4ddc6566b3546e27cb35f58772137ef78",
   "prices": []
  },
  "shortest": {
@@ -127,7 +127,7 @@
   "prices": []
  },
  "testzeus-hercules": {
-  "hash": "ac965f56ecee4c0927612c459fccccfb97f9edac45f4b294852281618ab023c0",
+  "hash": "a2364215b08592e98c44ff039e14a55072e4eeb8c3ad48cc63c3092e45908018",
   "prices": []
  },
  "arbigent": {
@@ -145,7 +145,7 @@
   "prices": []
  },
  "testerarmy-e2e": {
-  "hash": "029d392edcc61a92e974793b57d472d87fdeaa4beb0020052a565edc92ee0dd3",
+  "hash": "29c36acb059bcdf4a14d181270fed893b834c5d7ada67b3dbd52689c79ae8e5c",
   "prices": []
  },
  "endtest": {

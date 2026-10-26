@@ -394,5 +394,47 @@
   "name": "TesterArmy e2e",
   "what": "page content changed",
   "url": "https://github.com/tester-army/e2e"
+ },
+ {
+  "date": "2026-10-26",
+  "name": "TestMu AI (formerly LambdaTest)",
+  "what": "page content changed",
+  "url": "https://www.testmu.ai/pricing"
+ },
+ {
+  "date": "2026-10-26",
+  "name": "Playwright MCP",
+  "what": "page content changed",
+  "url": "https://github.com/microsoft/playwright-mcp"
+ },
+ {
+  "date": "2026-10-26",
+  "name": "Stagehand",
+  "what": "page content changed",
+  "url": "https://github.com/browserbase/stagehand"
+ },
+ {
+  "date": "2026-10-26",
+  "name": "Browser Use",
+  "what": "page content changed",
+  "url": "https://github.com/browser-use/browser-use"
+ },
+ {
+  "date": "2026-10-26",
+  "name": "Midscene.js",
+  "what": "page content changed",
+  "url": "https://github.com/web-infra-dev/midscene"
+ },
+ {
+  "date": "2026-10-26",
+  "name": "TestZeus Hercules",
+  "what": "page content changed",
+  "url": "https://github.com/test-zeus-ai/testzeus-hercules"
+ },
+ {
+  "date": "2026-10-26",
+  "name": "TesterArmy e2e",
+  "what": "page content changed",
+  "url": "https://github.com/tester-army/e2e"
  }
 ]
