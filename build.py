@@ -47,5 +47,6 @@ w('guides.html',page('Guides: AI testing tool categories & comparisons',"<h1>Gui
 U=['','compare.html','changes.html','about.html','guides.html']+[fn for fn,_ in G]+[f"tools/{t['slug']}.html" for t in D]
 import datetime;td=datetime.date.today().isoformat()
 w('sitemap.xml','<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'+''.join(f"<url><loc>{SITE}{u}</loc><lastmod>{td}</lastmod></url>\n" for u in U)+'</urlset>\n')
+w('googled5324eca40acbf99.html','google-site-verification: googled5324eca40acbf99.html')  # Search Console
 w('robots.txt',f"User-agent: *\nAllow: /\nSitemap: {SITE}sitemap.xml\n")
 print('built',len(D),'tools,',len(G),'guide pages + sitemap')
