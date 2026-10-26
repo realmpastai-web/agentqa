@@ -158,5 +158,19 @@
    "$2,500 /mo",
    "$2,500/mo"
   ]
+ },
+ "ranger": {
+  "hash": "ecae7c037c60c1a7b6877c2855dbaf7908b7a9030e8aa085b2e2bb5829e70454",
+  "prices": [
+   "$50/mo"
+  ]
+ },
+ "donobu": {
+  "hash": "ee12aa5312de2699aaa31058d258ebdf035b7999fd9555a4b5263c3d2ee61a61",
+  "prices": [
+   "$0.00 / mo",
+   "$34.00 / mo",
+   "$5,500/mo"
+  ]
  }
 }
