@@ -436,5 +436,83 @@
   "name": "TesterArmy e2e",
   "what": "page content changed",
   "url": "https://github.com/tester-army/e2e"
+ },
+ {
+  "date": "2026-10-27",
+  "name": "Applitools",
+  "what": "page content changed",
+  "url": "https://applitools.com/pricing/"
+ },
+ {
+  "date": "2026-10-27",
+  "name": "Playwright MCP",
+  "what": "page content changed",
+  "url": "https://github.com/microsoft/playwright-mcp"
+ },
+ {
+  "date": "2026-10-27",
+  "name": "Stagehand",
+  "what": "page content changed",
+  "url": "https://github.com/browserbase/stagehand"
+ },
+ {
+  "date": "2026-10-27",
+  "name": "Skyvern",
+  "what": "page content changed",
+  "url": "https://github.com/Skyvern-AI/skyvern"
+ },
+ {
+  "date": "2026-10-27",
+  "name": "Browser Use",
+  "what": "page content changed",
+  "url": "https://github.com/browser-use/browser-use"
+ },
+ {
+  "date": "2026-10-27",
+  "name": "Midscene.js",
+  "what": "page content changed",
+  "url": "https://github.com/web-infra-dev/midscene"
+ },
+ {
+  "date": "2026-10-27",
+  "name": "Shortest",
+  "what": "page content changed",
+  "url": "https://github.com/antiwork/shortest"
+ },
+ {
+  "date": "2026-10-27",
+  "name": "QA.tech",
+  "what": "page content changed",
+  "url": "https://qa.tech/pricing"
+ },
+ {
+  "date": "2026-10-27",
+  "name": "Alumnium",
+  "what": "page content changed",
+  "url": "https://github.com/alumnium-hq/alumnium"
+ },
+ {
+  "date": "2026-10-27",
+  "name": "TestZeus Hercules",
+  "what": "page content changed",
+  "url": "https://github.com/test-zeus-ai/testzeus-hercules"
+ },
+ {
+  "date": "2026-10-27",
+  "name": "Arbigent",
+  "what": "page content changed",
+  "url": "https://github.com/takahirom/arbigent"
+ },
+ {
+  "date": "2026-10-27",
+  "name": "TestDriver",
+  "what": "page content changed",
+  "url": "https://testdriver.ai/pricing"
+ },
+ {
+  "date": "2026-10-27",
+  "name": "TesterArmy e2e",
+  "what": "page content changed",
+  "url": "https://github.com/tester-army/e2e"
  }
 ]
