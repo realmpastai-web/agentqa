@@ -172,5 +172,13 @@
    "$34.00 / mo",
    "$5,500/mo"
   ]
+ },
+ "magnitude": {
+  "hash": "b08acf181d7ae0114ededb794cfc61e4b0e872f4bb382b2ea4dd89c4597c35f9",
+  "prices": []
+ },
+ "meticulous": {
+  "hash": "044b359729f91d9c92a139f8c957df500fa36a7c5b3612e8ec927e627dbaf3ed",
+  "prices": []
  }
 }
