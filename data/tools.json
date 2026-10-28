@@ -724,5 +724,57 @@
   ],
   "source": "https://www.meticulous.ai",
   "last_checked": "2026-10-27"
+ },
+ {
+  "slug": "optics-framework",
+  "name": "Optics Framework",
+  "url": "https://optics-framework.org",
+  "category": "Open-source keyword test automation with AI test authoring and self-healing locators",
+  "tests": [
+   "Android",
+   "iOS",
+   "web",
+   "smart TV (Android TV, Tizen, webOS)",
+   "Bluetooth (BLE) devices"
+  ],
+  "pricing": "Free (Apache-2.0); no paid edition or account per official site; AI features use your own Gemini, OpenAI, Anthropic or local model",
+  "free_tier": true,
+  "open_source": true,
+  "integrations": [
+   "Appium",
+   "Selenium",
+   "Playwright",
+   "Robot Framework library",
+   "Python SDK",
+   "REST API",
+   "MCP server",
+   "CSV/YAML test suites"
+  ],
+  "license": "Apache-2.0 (github.com/mozarkai/optics-framework)",
+  "source": "https://github.com/mozarkai/optics-framework",
+  "last_checked": "2026-10-28"
+ },
+ {
+  "slug": "agent-qa",
+  "name": "agent-qa (vostride)",
+  "url": "https://vostride.com",
+  "category": "Self-improving natural-language QA agent with run memory (web & mobile)",
+  "tests": [
+   "web",
+   "Android",
+   "iOS"
+  ],
+  "pricing": "Free to self-host (source-available, FSL-1.1-ALv2); bring your own LLM (OpenAI/Anthropic-compatible endpoints, Gemini, local models or Codex/Claude Code subscriptions); no pricing page found",
+  "free_tier": true,
+  "open_source": false,
+  "integrations": [
+   "MCP server and agent skills (coding agents)",
+   "CLI",
+   "Dashboard",
+   "Docker-sandboxed hooks (Node, Bun, Python, Bash)"
+  ],
+  "license": "Functional Source License FSL-1.1-ALv2 (source-available; converts to Apache-2.0 later per license), not OSI open source",
+  "source": "https://github.com/vostride/agent-qa",
+  "last_checked": "2026-10-28"
  }
 ]
