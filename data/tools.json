@@ -776,5 +776,26 @@
   "license": "Functional Source License FSL-1.1-ALv2 (source-available; converts to Apache-2.0 later per license), not OSI open source",
   "source": "https://github.com/vostride/agent-qa",
   "last_checked": "2026-10-28"
+ },
+ {
+  "slug": "autify-aximo",
+  "name": "Autify Aximo",
+  "url": "https://autify.com",
+  "category": "Autonomous AI testing agent (natural language + visual recognition, no scripts or selectors)",
+  "tests": [
+   "web",
+   "mobile",
+   "desktop (Enterprise plan only)"
+  ],
+  "pricing": "Free: $0 with 2,000 one-time credits (no expiration), 1 web + 1 mobile concurrency; Core $99/mo billed annually or $120/mo monthly (6,000 credits/mo); Team $450/mo annually or $550/mo monthly (30,000 credits/mo, script generation); Enterprise custom (on-prem or dedicated infra). Credits are consumed per AI test step and vary by model and web vs mobile",
+  "free_tier": true,
+  "open_source": false,
+  "integrations": [
+   "Selectable AI model per run (per pricing page)",
+   "Email testing",
+   "Visual regression testing"
+  ],
+  "source": "https://autify.com/pricing",
+  "last_checked": "2026-10-29"
  }
 ]
