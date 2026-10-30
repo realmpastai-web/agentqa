@@ -778,5 +778,23 @@
   "name": "agent-qa (vostride)",
   "what": "page content changed",
   "url": "https://github.com/vostride/agent-qa"
+ },
+ {
+  "date": "2026-10-30",
+  "name": "Autonoma",
+  "what": "page content changed",
+  "url": "https://github.com/Autonoma-AI/autonoma"
+ },
+ {
+  "date": "2026-10-30",
+  "name": "Applitools",
+  "what": "pricing figures changed: $667 / mo",
+  "url": "https://applitools.com/pricing/"
+ },
+ {
+  "date": "2026-10-30",
+  "name": "TesterArmy e2e",
+  "what": "page content changed",
+  "url": "https://github.com/tester-army/e2e"
  }
 ]

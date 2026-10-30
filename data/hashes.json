@@ -59,8 +59,10 @@
   ]
  },
  "applitools": {
-  "hash": "f4a7709c00e645f9ae7d8eadfda6ff76ded171bf3502861ecf70ef31775b43f4",
-  "prices": []
+  "hash": "bd87196385edfd70f516f971074bfa4613d87a09d7286f2b25a11cb318489622",
+  "prices": [
+   "$667 / mo"
+  ]
  },
  "reflect": {
   "hash": "df831dff565523b0d044e7d4946abd28b66a0e242d29ff77287f929792107e20",
@@ -101,7 +103,7 @@
   "prices": []
  },
  "autonoma": {
-  "hash": "19fb3ccbf7cac0b628e1203957d40742cbec3a379746017bb7db728d51c49f4c",
+  "hash": "79d99087d823bf9ec5e6cfb75a774a0b3b0afccad1615e3453e40e9ffedbac5a",
   "prices": []
  },
  "midscene": {
@@ -145,7 +147,7 @@
   "prices": []
  },
  "testerarmy-e2e": {
-  "hash": "135095b47eb348be75ac875dd622aca4fd90c7fb4d209d1e4d27e5629ae2ec30",
+  "hash": "51257ddeb3c64d8ee5ec53c001c84423743fb921fb29b58f59011e28d8c3e4cf",
   "prices": []
  },
  "endtest": {
@@ -196,5 +198,9 @@
    "$550 / mo",
    "$99 / mo"
   ]
+ },
+ "diffblue": {
+  "hash": "413ee4f34261e10003fc1062ae18114ee4dc93bc1d4ddced4421db59e727a973",
+  "prices": []
  }
 }
