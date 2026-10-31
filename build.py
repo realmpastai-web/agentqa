@@ -1,4 +1,4 @@
-import json,html,os
+import json,html,os,re
 R=os.path.dirname(os.path.abspath(__file__));D=json.load(open(f'{R}/data/tools.json'))
 ch=json.load(open(f'{R}/data/changes.json')) if os.path.exists(f'{R}/data/changes.json') else []
 e=lambda s:html.escape(str(s))
@@ -31,8 +31,9 @@ CATS=[('open-source-ai-testing-tools.html','Open-source AI testing tools',lambda
  ('desktop-ai-testing-tools.html','AI testing tools for desktop apps',lambda t:any('desktop' in x.lower() for x in t['tests']),'AI test-automation tools that list desktop app testing (Windows, macOS or desktop apps), per vendor and project pages.'),
  ('api-ai-testing-tools.html','AI tools for API testing',lambda t:any('api' in x.lower() for x in t['tests']),'AI testing tools that list API testing, with pricing and open-source status from vendor and project pages.'),
  ('ai-unit-test-generation-tools.html','AI unit test generation tools',lambda t:any('unit' in x.lower() for x in t['tests']),'AI tools that generate unit tests from your code, with languages, pricing and open-source status from vendor and project pages.'),
+ ('ai-pull-request-testing-tools.html','AI testing tools that test pull requests',lambda t:any(re.search(r'\bPRs?\b|pull request',i,re.I) for i in t['integrations']+t['tests']+[t['category'],t['pricing']]),'AI test-automation tools that run tests on pull requests (PR testing, PR previews or PR checks), per vendor and project pages.'),
  ('ai-testing-tools-with-public-pricing.html','AI testing tools with public pricing',lambda t:'$' in t['pricing'],'AI test-automation tools that publish dollar prices on their own pricing page (no sales call needed to see a number), as last checked.')]
-VS=[('stagehand','browser-use'),('midscene','stagehand'),('playwright-mcp','stagehand'),('shortest','midscene'),('momentic','qa-tech'),('testrigor','testsigma'),('alumnium','midscene'),('testzeus-hercules','shortest'),('arbigent','midscene'),('maestro','arbigent'),('testerarmy-e2e','midscene'),('bug0','qa-wolf'),('donobu','momentic'),('ranger','testdriver'),('magnitude','stagehand'),('meticulous','checksum'),('optics-framework','maestro'),('agent-qa','testerarmy-e2e'),('autify-aximo','qa-tech'),('diffblue','keploy')]
+VS=[('stagehand','browser-use'),('midscene','stagehand'),('playwright-mcp','stagehand'),('shortest','midscene'),('momentic','qa-tech'),('testrigor','testsigma'),('alumnium','midscene'),('testzeus-hercules','shortest'),('arbigent','midscene'),('maestro','arbigent'),('testerarmy-e2e','midscene'),('bug0','qa-wolf'),('donobu','momentic'),('ranger','testdriver'),('magnitude','stagehand'),('meticulous','checksum'),('optics-framework','maestro'),('agent-qa','testerarmy-e2e'),('autify-aximo','qa-tech'),('diffblue','keploy'),('testsprite','momentic')]
 F=['category','tests','pricing','free_tier','open_source','integrations','last_checked']
 def vs(a,b):
   r=''.join(f"<tr><th>{k.replace('_',' ')}</th>"+''.join(f"<td>{e(', '.join(x[k]) if isinstance(x[k],list) else yn(x[k]) if x[k] in (True,False,None) else x[k])}</td>" for x in (a,b))+"</tr>" for k in F)

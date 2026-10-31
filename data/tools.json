@@ -818,5 +818,28 @@
   ],
   "source": "https://www.diffblue.com/pricing/",
   "last_checked": "2026-10-30"
+ },
+ {
+  "slug": "testsprite",
+  "name": "TestSprite",
+  "url": "https://www.testsprite.com",
+  "category": "Agentic AI testing platform (agent writes and runs E2E tests, PR auto-test)",
+  "tests": [
+   "web E2E (frontend)",
+   "backend / API"
+  ],
+  "pricing": "Free $0/mo (150 credits/mo, 1 environment, GitHub PR auto-test on 1 repo); Starter $19/mo after a free first month (400 credits); Standard $39/mo (800 credits); Pro $69/mo (1,600 credits); Enterprise $199+/mo from 10 seats (from 5,000 credits). Yearly billing saves 35%",
+  "free_tier": true,
+  "open_source": false,
+  "integrations": [
+   "MCP (agent chat, CLI and IDE plugin)",
+   "GitHub PR auto-test",
+   "Slack notifications",
+   "Jira and Linear (Standard+)",
+   "AWS Marketplace (Enterprise)",
+   "Open-source CLI (per vendor homepage)"
+  ],
+  "source": "https://www.testsprite.com/pricing",
+  "last_checked": "2026-10-31"
  }
 ]
