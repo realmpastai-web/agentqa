@@ -15,7 +15,7 @@
    "CI (see site)"
   ],
   "source": "https://momentic.ai/pricing",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "testrigor",
@@ -34,7 +34,7 @@
    "see site"
   ],
   "source": "https://testrigor.com/sign-up/",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "mabl",
@@ -53,7 +53,7 @@
    "see site"
   ],
   "source": "https://www.mabl.com/pricing",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "katalon",
@@ -73,7 +73,7 @@
    "see site"
   ],
   "source": "https://katalon.com/pricing",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "browserstack-ai",
@@ -97,7 +97,7 @@
    "Appium"
   ],
   "source": "https://www.browserstack.com/pricing",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "testmu-ai",
@@ -121,7 +121,7 @@
    "Appium"
   ],
   "source": "https://www.testmu.ai/pricing",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "autonoma",
@@ -142,7 +142,7 @@
    "Appium"
   ],
   "source": "https://github.com/Autonoma-AI/autonoma",
-  "last_checked": "2026-10-30",
+  "last_checked": "2026-10-31",
   "license": "BSL-1.1 (source-available, not OSI open source); change license Apache-2.0"
  },
  {
@@ -162,7 +162,7 @@
    "see site"
   ],
   "source": "https://qodex.ai/pricing",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "qa-wolf",
@@ -182,7 +182,7 @@
    "Appium"
   ],
   "source": "https://www.qawolf.com/pricing",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "functionize",
@@ -199,7 +199,7 @@
    "coding agents (Studio)"
   ],
   "source": "https://www.functionize.com/pricing",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "applitools",
@@ -220,7 +220,7 @@
    "Cypress"
   ],
   "source": "https://applitools.com/pricing/",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "reflect",
@@ -238,7 +238,7 @@
    "see site"
   ],
   "source": "https://reflect.run/pricing/",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "virtuoso",
@@ -256,7 +256,7 @@
    "see site"
   ],
   "source": "https://www.virtuoso.qa/pricing",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "checksum",
@@ -275,7 +275,7 @@
    "CI"
   ],
   "source": "https://www.checksum.ai",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "keploy",
@@ -295,7 +295,7 @@
    "CI"
   ],
   "source": "https://keploy.io/pricing",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "playwright-mcp",
@@ -313,7 +313,7 @@
    "MCP clients"
   ],
   "source": "https://github.com/microsoft/playwright-mcp",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "stagehand",
@@ -331,7 +331,7 @@
    "Browserbase"
   ],
   "source": "https://github.com/browserbase/stagehand",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "skyvern",
@@ -348,7 +348,7 @@
    "Playwright"
   ],
   "source": "https://github.com/Skyvern-AI/skyvern",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "browser-use",
@@ -366,7 +366,7 @@
    "LLM providers"
   ],
   "source": "https://github.com/browser-use/browser-use",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "midscene",
@@ -389,7 +389,7 @@
    "YAML test cases"
   ],
   "source": "https://github.com/web-infra-dev/midscene",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "shortest",
@@ -409,7 +409,7 @@
    "Mailosaur"
   ],
   "source": "https://github.com/antiwork/shortest",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "qa-tech",
@@ -431,7 +431,7 @@
    "PR testing (Growth+)"
   ],
   "source": "https://qa.tech/pricing",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "testsigma",
@@ -451,7 +451,7 @@
    "30+ integrations (Pro); 40+ (Enterprise)"
   ],
   "source": "https://testsigma.com/pricing",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "alumnium",
@@ -476,7 +476,7 @@
    "Java"
   ],
   "source": "https://github.com/alumnium-hq/alumnium",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "testzeus-hercules",
@@ -500,7 +500,7 @@
    "CI/CD"
   ],
   "source": "https://github.com/test-zeus-ai/testzeus-hercules",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "arbigent",
@@ -524,7 +524,7 @@
    "Android Studio Journeys XML"
   ],
   "source": "https://github.com/takahirom/arbigent",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "testdriver",
@@ -548,7 +548,7 @@
   ],
   "license": "SDK repo github.com/testdriverai/testdriverai declares ISC in package.json; GitHub detects no LICENSE file",
   "source": "https://testdriver.ai/pricing",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "maestro",
@@ -573,7 +573,7 @@
   ],
   "license": "Apache-2.0 (github.com/mobile-dev-inc/Maestro); Maestro Studio desktop is free but not open source",
   "source": "https://maestro.dev/pricing",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "testerarmy-e2e",
@@ -597,7 +597,7 @@
   ],
   "license": "Apache-2.0; pre-1.0, APIs may change between minor releases (per README)",
   "source": "https://github.com/tester-army/e2e",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "endtest",
@@ -621,7 +621,7 @@
    "Endtest MCP"
   ],
   "source": "https://endtest.io/pricing",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "bug0",
@@ -643,7 +643,7 @@
   ],
   "license": "Managed service is commercial; its test engine Bug0 AI (github.com/bug0inc/qa-agent) is source-available under FSL-1.1-ALv2 (not an OSI open-source license)",
   "source": "https://bug0.com/pricing",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "ranger",
@@ -661,7 +661,7 @@
    "coding agents"
   ],
   "source": "https://www.ranger.net/pricing",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "donobu",
@@ -686,7 +686,7 @@
    "Slack/Teams reporting (Premium Teams)"
   ],
   "source": "https://www.donobu.com/pricing",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "magnitude",
@@ -705,7 +705,7 @@
    "Claude Sonnet 4 / Qwen-2.5VL 72B (bring your own model)"
   ],
   "source": "https://github.com/magnitudedev/browser-agent",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "meticulous",
@@ -723,7 +723,7 @@
    "CI integration (PR impact reports)"
   ],
   "source": "https://www.meticulous.ai",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "optics-framework",
@@ -752,7 +752,7 @@
   ],
   "license": "Apache-2.0 (github.com/mozarkai/optics-framework)",
   "source": "https://github.com/mozarkai/optics-framework",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "agent-qa",
@@ -775,7 +775,7 @@
   ],
   "license": "Functional Source License FSL-1.1-ALv2 (source-available; converts to Apache-2.0 later per license), not OSI open source",
   "source": "https://github.com/vostride/agent-qa",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "autify-aximo",
@@ -796,7 +796,7 @@
    "Visual regression testing"
   ],
   "source": "https://autify.com/pricing",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "diffblue",
@@ -817,7 +817,7 @@
    "Coverage verifiable with JaCoCo/Cobertura"
   ],
   "source": "https://www.diffblue.com/pricing/",
-  "last_checked": "2026-10-30"
+  "last_checked": "2026-10-31"
  },
  {
   "slug": "testsprite",
