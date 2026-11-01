@@ -841,5 +841,27 @@
   ],
   "source": "https://www.testsprite.com/pricing",
   "last_checked": "2026-10-31"
+ },
+ {
+  "slug": "tusk",
+  "name": "Tusk",
+  "url": "https://usetusk.ai",
+  "category": "AI test generation agent (unit and API tests on PRs, from production traffic)",
+  "tests": [
+   "unit",
+   "API / integration"
+  ],
+  "pricing": "Free $0 (no seat minimum; generate unit/API tests for PRs, run tests locally or in CI; includes a 14-day free trial of Team); Team $50/mo per active dev (unlimited unit and API test generation, CoverBot, Linear & Jira, 3 synced repos); Enterprise custom (200 seat minimum, self-hosting, SAML/SSO)",
+  "free_tier": true,
+  "open_source": false,
+  "integrations": [
+   "Pull request test generation",
+   "CI",
+   "Tusk CLI",
+   "Linear and Jira (Team)",
+   "Self-hosting (Enterprise)"
+  ],
+  "source": "https://usetusk.ai/pricing",
+  "last_checked": "2026-11-01"
  }
 ]
