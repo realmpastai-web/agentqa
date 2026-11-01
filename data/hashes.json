@@ -83,19 +83,19 @@
   ]
  },
  "playwright-mcp": {
-  "hash": "afb54d55007b535df9c2a106e4d81f5f2b64ec7106cdff8268ec0beb0232643d",
+  "hash": "a6aeb5f88628aa8674212f6a1a8a803b3e50357bbad83dd3d9520d08250ad059",
   "prices": []
  },
  "stagehand": {
-  "hash": "cdcbf563e7a7bceae14ad02550703b5a8ec94773805bc15d4bd9efd4d1474696",
+  "hash": "0b0f1c5ff43b0186dd9337a7d16736e84582da7f79893020fb226a0e349b4d41",
   "prices": []
  },
  "skyvern": {
-  "hash": "6e902579ba9b1a37a4d8f788ee87bab3c84ffb72e6fb7dc4bf4bd454c56829bc",
+  "hash": "f7147c0c666b38d05f086cf5e06ad8e12ce9ffac79996963a2c0d95ffe424155",
   "prices": []
  },
  "browser-use": {
-  "hash": "f68b0dbb6d3f83ea0fd8e8347bc52be33f2ec093e82023a5307813cfab78d03d",
+  "hash": "a2af157603b5f59d15eeee12f75960149e8282aa5fdd40251b43cac4e95fd857",
   "prices": []
  },
  "testrigor": {
@@ -107,7 +107,7 @@
   "prices": []
  },
  "midscene": {
-  "hash": "3173b5b30ff00f6248024524b22da55f80333e1ea6272593bde0cb807082527c",
+  "hash": "e2f739caf7dcc0ffeac9f38ff439ea88f3a29e7e1ade16959f79f947ec6a86da",
   "prices": []
  },
  "shortest": {
@@ -125,11 +125,11 @@
   "prices": []
  },
  "alumnium": {
-  "hash": "955c21367eb3f98ced7278318be39809decbf870ba1e87fa16037fbae3e78a7e",
+  "hash": "33387b674510d4a32c7bf6387e7ed7423f86fb1423d3ce7eb18c85e819453162",
   "prices": []
  },
  "testzeus-hercules": {
-  "hash": "19008d98e04b5f046fee6a9389c60e7790324d85d94b1e5b800b3b4328d809db",
+  "hash": "fa560dbf034302b7dac5ad09ac41fb971420dcd6dce897093eec6b736055ab79",
   "prices": []
  },
  "arbigent": {
@@ -147,7 +147,7 @@
   "prices": []
  },
  "testerarmy-e2e": {
-  "hash": "afe2826f1c4d296a4c9994a7239482bf16404d2884526ed595ef03f331bb50f1",
+  "hash": "75c3b933fbc6143babe7579b56c77449e6bcd16aa9aadc7d6f97df643ef6b159",
   "prices": []
  },
  "endtest": {
@@ -183,11 +183,11 @@
   "prices": []
  },
  "optics-framework": {
-  "hash": "b2a666d66507050abe821bcbde06b55ef3dba1c56d73a0f45c6d8a7835014729",
+  "hash": "2a69fb81fcd4dbf5c20aa7dc7629833c4c54aef08c24d7d4fcd734441774a334",
   "prices": []
  },
  "agent-qa": {
-  "hash": "cf56c98551ab84e08cd9b9feb70040b5b9d7355449d0c665929c53d094863807",
+  "hash": "01ba31ce0ba9888aed465c003e54d8a6669cf511eb7eddf337c5bf1e096812ca",
   "prices": []
  },
  "autify-aximo": {
@@ -211,5 +211,9 @@
    "$39 /mo",
    "$69 /mo"
   ]
+ },
+ "tusk": {
+  "hash": "5dbeb79ee880b0b9855f1d9d7d6182bbc3bee6b57260a16cac8e10777f919244",
+  "prices": []
  }
 }
