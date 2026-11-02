@@ -1012,5 +1012,11 @@
   "name": "agent-qa (vostride)",
   "what": "page content changed",
   "url": "https://github.com/vostride/agent-qa"
+ },
+ {
+  "date": "2026-11-02",
+  "name": "Applitools",
+  "what": "pricing figures changed: $667 / mo",
+  "url": "https://applitools.com/pricing/"
  }
 ]
