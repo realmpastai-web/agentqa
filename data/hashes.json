@@ -1,6 +1,6 @@
 {
  "momentic": {
-  "hash": "0f8924501ad009d2ac124a0214a934094252554f882a722a420010955aeb7085",
+  "hash": "e6a868c50685288dffe0d293b985e613717030838dad93090fba027d23eb623f",
   "prices": [
    "$125 / mo"
   ]
@@ -10,7 +10,7 @@
   "prices": []
  },
  "katalon": {
-  "hash": "8c6ab65021cbc3354811ac73bde8217ab45013ed0a12728323e0ffe23e95664a",
+  "hash": "156db4f831df102d56f92cff0375ba9c67039d8f7a37436e83544ad129116721",
   "prices": []
  },
  "browserstack-ai": {
@@ -91,11 +91,11 @@
   "prices": []
  },
  "skyvern": {
-  "hash": "c9a78d76af9b79c7b1419368257473496c6117e056dde6a9b897e49dbaecb9c2",
+  "hash": "10cdc196f9810d1d345a2a86d5f63e753cda37332e237d2de52150bf7c1668a9",
   "prices": []
  },
  "browser-use": {
-  "hash": "e2437c8553ef0f817a48781e069039899147dacb66c301612b205b0024d4ebb5",
+  "hash": "e23db8afa11823ac1c5d1e92cfa8192602650957e1f62a4bee59db0aaf52fcdd",
   "prices": []
  },
  "testrigor": {
@@ -129,7 +129,7 @@
   "prices": []
  },
  "testzeus-hercules": {
-  "hash": "fa560dbf034302b7dac5ad09ac41fb971420dcd6dce897093eec6b736055ab79",
+  "hash": "2d0c62e170aed7405b3e1c01e1e81b42fa1d12941dd2c57e1bc8cd412d73a464",
   "prices": []
  },
  "arbigent": {
@@ -183,7 +183,7 @@
   "prices": []
  },
  "optics-framework": {
-  "hash": "19f373cb2342ab9d749ff4d24390f909514c8355110805dd789deedcfc5d9dbc",
+  "hash": "2fb54f057c4eaa001abc5231e5fa72b140264561d8b0cd9474cb210ccf594dab",
   "prices": []
  },
  "agent-qa": {
