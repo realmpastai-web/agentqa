@@ -1246,5 +1246,11 @@
   "name": "TestOptim AI",
   "what": "page content changed",
   "url": "https://www.testoptim.com/pricing"
+ },
+ {
+  "date": "2026-11-04",
+  "name": "Rainforest QA",
+  "what": "page content changed",
+  "url": "https://www.rainforestqa.com/pricing"
  }
 ]
