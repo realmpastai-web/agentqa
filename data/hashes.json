@@ -1,6 +1,6 @@
 {
  "momentic": {
-  "hash": "01228f8f62b89b76b3236b046e52e58cabea7e804c1210423cf357d35644ad32",
+  "hash": "ee747ec306c22cbae9f6560fa43a05551b036241440fbad0ecebaa3a6cfb2926",
   "prices": [
    "$0 / mo",
    "$50 / mo",
@@ -12,7 +12,7 @@
   "prices": []
  },
  "katalon": {
-  "hash": "156db4f831df102d56f92cff0375ba9c67039d8f7a37436e83544ad129116721",
+  "hash": "1075eb853cc0f912198fc7de72e1dcb1fdcceade0d9af051d3bbcacfef7a361e",
   "prices": []
  },
  "browserstack-ai": {
@@ -54,7 +54,7 @@
   "prices": []
  },
  "functionize": {
-  "hash": "60a52a10e799887bd6b4313dbc02a05266e9f9558a635151b6fdcdc7932e25b7",
+  "hash": "88f772116546860528ae2efc813f7ac39f18ffeedd1999259bb2d0abfab67c6b",
   "prices": [
    "$100 /mo",
    "$20 /mo"
@@ -67,11 +67,11 @@
   ]
  },
  "reflect": {
-  "hash": "df831dff565523b0d044e7d4946abd28b66a0e242d29ff77287f929792107e20",
+  "hash": "63b505c8e01028d69077a372ce21f8e48f22db0ff22a21c4646e9d061e4fa46f",
   "prices": []
  },
  "virtuoso": {
-  "hash": "0652208862df9df006cc0823d98071d7a6a11faffdb25b5807ee6a21284bf94a",
+  "hash": "61db7d0d25c735d1f115c4ea258c97ea3032403cf662eb1b29e2f70c68c2e065",
   "prices": []
  },
  "checksum": {
@@ -79,25 +79,25 @@
   "prices": []
  },
  "keploy": {
-  "hash": "4edbcdc0019964707e2cd758b28ff5a67ab21d4e24eab68dfbf6038e83631182",
+  "hash": "84eebf0b230ee47958154e192d1f9c6eb0f79851a02b50f880a7651341ab7e05",
   "prices": [
    "$19/user"
   ]
  },
  "playwright-mcp": {
-  "hash": "ec0078f1c7fdf53b28583465e98b14d1a8744c31b8c5f171f5a7a183ffa520fa",
+  "hash": "b71d4c066ed66a199847498dbb26cbbe96a000e6a7437902de26a489ee427af9",
   "prices": []
  },
  "stagehand": {
-  "hash": "2379a0bec6562d5e642c9ccd94b5298e5866a6a73deb1f0a0441ac8b05516c93",
+  "hash": "14495131a8f4acdf16aa38461eb30143e33e0f56110ec25f6731232e672a0f8c",
   "prices": []
  },
  "skyvern": {
-  "hash": "2584353cecaddbee3ad90f8507e83cb69df967c5a88846f9a2f73c0f9c16ad9d",
+  "hash": "d6e4d7cc769ce849b9c9cf9c9495cf166a40d99bcd3362237d9032eb9f634a4c",
   "prices": []
  },
  "browser-use": {
-  "hash": "c4916694e74e0bf9bba3acef5c06b55dff6be03104fce5f4ee3bfe8f0398ee99",
+  "hash": "ce6cc299baf3f3f4a6a6dd546b78e094581e8a68838fe858b22cfe92f1d45305",
   "prices": []
  },
  "testrigor": {
@@ -105,19 +105,19 @@
   "prices": []
  },
  "autonoma": {
-  "hash": "4bef3c5f820289ec3fd1958afc41f97ce69ced3dda56fd654bd4b8ffa959b8a4",
+  "hash": "2951af5fb1e768dc79334e57428252454aed454e7e2d4bb40f832aa213f5b756",
   "prices": []
  },
  "midscene": {
-  "hash": "76e7190d163c4ddf3ba0a58a0fbeaf3b85e21470c4b3b4c42ac2984b6cbd2969",
+  "hash": "411babdf8e10247fe547c8a5b29ab48cdc315632720c77ab138bc14ddc536e4f",
   "prices": []
  },
  "shortest": {
-  "hash": "e0b340900d4a22df24f8c9c215101201235dd276fa683672ecfbe6466684759a",
+  "hash": "15e4231e1c41a57a55f57f4bd7f246a959c7f180914bdd1bf640f937af35ef81",
   "prices": []
  },
  "qa-tech": {
-  "hash": "755cde1df3cf457861805018477699cb94b226c5c8ede0355c73f9891c891be5",
+  "hash": "03b4148595c17f2c5b547faa7fd4a1cffaf0d0f2ed2c3f99cf7c423e81431496",
   "prices": [
    "$89 / mo"
   ]
@@ -127,19 +127,19 @@
   "prices": []
  },
  "alumnium": {
-  "hash": "04a50b97e667c9264f4fba7554f28bcf576494f4c1b1ad6d09c0a485cb0242f1",
+  "hash": "e407c7bafaec9f248fa62f41cceb553bbd7b44c3b33bb9f2ed976531fc496541",
   "prices": []
  },
  "testzeus-hercules": {
-  "hash": "22faab9752d5613d9513ccbebf2129ac5e213cbfc7da719c9cf27b75aa1018fd",
+  "hash": "c25617d48094ec2eb4bbfe0b91ff6975d6d7d2e723de1981fc53b0f016220999",
   "prices": []
  },
  "arbigent": {
-  "hash": "b57fd4393d8635f5e34005d7dbed8b0a29ecfbea19fb81f149ef453ce69413c9",
+  "hash": "96960b0acacec4ade71e42abbf9b3fa29b19776f08eb25d213fadf610c8c72c8",
   "prices": []
  },
  "testdriver": {
-  "hash": "7bfa4486233e7901308f852da24c666f45cdd9d907130ffe14ab0fb49548ea63",
+  "hash": "39e543cddd81302220ee0a3a95f44f3b5ccce20690a60c805d73e9f224092749",
   "prices": [
    "$24 / mo"
   ]
@@ -149,7 +149,7 @@
   "prices": []
  },
  "testerarmy-e2e": {
-  "hash": "99d0b2474d97fdf4cdda81d899d3be8d02e4e7d52830172a2caea12fc86442cd",
+  "hash": "bbbe12253d7ac702d055c4c82543059d12f8450676b434e5686183b22a0419ae",
   "prices": []
  },
  "endtest": {
@@ -177,7 +177,7 @@
   ]
  },
  "magnitude": {
-  "hash": "1f116d0f3e9a8b19919bbc86e2299cf9d7b86b9e390de3fd305566ea4cabf820",
+  "hash": "7ca731282a24642ee57e498dc460999db36184ce236f7de0764518c4a0d4f20f",
   "prices": []
  },
  "meticulous": {
@@ -185,11 +185,11 @@
   "prices": []
  },
  "optics-framework": {
-  "hash": "81264d5280da935b515e78c11d4fda8dfa2509bf87cdcd85dc72689dac4d0da3",
+  "hash": "e0699c3a92914120c715b31a184fddfcaf737b1902f58a9d489c32ce646a4cd3",
   "prices": []
  },
  "agent-qa": {
-  "hash": "ba8d82b75108616889291f6b2b55e92617f109341b9e61bd17e3037ea6dd64b0",
+  "hash": "e6a39bfb1075792b94ae63a497d5e2cd318c524ef58ddb66726a738020af7a7f",
   "prices": []
  },
  "autify-aximo": {
@@ -206,7 +206,7 @@
   "prices": []
  },
  "testsprite": {
-  "hash": "5c19c3d361ee482625aa63227a3e6acd05ae4c2e06214a0baa64842d188a7c5e",
+  "hash": "5e47f31f5d529e51bef98349acfdc50d7ce42adb5ae456b6bb59fdc0427bce64",
   "prices": [
    "$0 /mo",
    "$19/mo",
@@ -242,7 +242,7 @@
   ]
  },
  "rainforest-qa": {
-  "hash": "5a185fbb92148214d6363d86ca72e8de35647f7b0e6f13c5b19d922a746b129a",
+  "hash": "57c7d02801b0485673374d0b882880cece358da828a35232142fbd8aac718bdb",
   "prices": []
  },
  "autosana": {
@@ -254,6 +254,25 @@
  },
  "spur": {
   "hash": "2d917f4c27b8bc4a810263ea9c989d27d1ab3ef3ca4444955da53c22ca48cdc8",
+  "prices": []
+ },
+ "optestra": {
+  "hash": "1b42b36fab1058a58e42a7d8603b62388404ff9dc805ad26c5583dcbe64909d1",
+  "prices": [
+   "$15.83 /mo",
+   "$19 /mo",
+   "$19/mo",
+   "$40.83 /mo",
+   "$49 /mo",
+   "$49/mo",
+   "$5/mo",
+   "$6.67 /mo",
+   "$8 /mo",
+   "$8/mo"
+  ]
+ },
+ "sanitycheck": {
+  "hash": "17fe6c0768ed2eefca2a1deed7ecf8a36e95eaf5deeb38fd2b89faea49a6d7ab",
   "prices": []
  }
 }
