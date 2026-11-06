@@ -1498,5 +1498,35 @@
   "name": "Rainforest QA",
   "what": "page content changed",
   "url": "https://www.rainforestqa.com/pricing"
+ },
+ {
+  "date": "2026-11-06",
+  "name": "Alumnium",
+  "what": "page content changed",
+  "url": "https://github.com/alumnium-hq/alumnium"
+ },
+ {
+  "date": "2026-11-06",
+  "name": "Arbigent",
+  "what": "page content changed",
+  "url": "https://github.com/takahirom/arbigent"
+ },
+ {
+  "date": "2026-11-06",
+  "name": "Magnitude",
+  "what": "page content changed",
+  "url": "https://github.com/magnitudedev/browser-agent"
+ },
+ {
+  "date": "2026-11-06",
+  "name": "agent-qa (vostride)",
+  "what": "page content changed",
+  "url": "https://github.com/vostride/agent-qa"
+ },
+ {
+  "date": "2026-11-06",
+  "name": "Rainforest QA",
+  "what": "page content changed",
+  "url": "https://www.rainforestqa.com/pricing"
  }
 ]
