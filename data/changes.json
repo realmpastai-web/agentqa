@@ -1528,5 +1528,95 @@
   "name": "Rainforest QA",
   "what": "page content changed",
   "url": "https://www.rainforestqa.com/pricing"
+ },
+ {
+  "date": "2026-11-07",
+  "name": "Momentic",
+  "what": "page content changed",
+  "url": "https://momentic.ai/pricing"
+ },
+ {
+  "date": "2026-11-07",
+  "name": "testRigor",
+  "what": "page content changed",
+  "url": "https://testrigor.com/sign-up/"
+ },
+ {
+  "date": "2026-11-07",
+  "name": "Playwright MCP",
+  "what": "page content changed",
+  "url": "https://github.com/microsoft/playwright-mcp"
+ },
+ {
+  "date": "2026-11-07",
+  "name": "Stagehand",
+  "what": "page content changed",
+  "url": "https://github.com/browserbase/stagehand"
+ },
+ {
+  "date": "2026-11-07",
+  "name": "Skyvern",
+  "what": "page content changed",
+  "url": "https://github.com/Skyvern-AI/skyvern"
+ },
+ {
+  "date": "2026-11-07",
+  "name": "Browser Use",
+  "what": "page content changed",
+  "url": "https://github.com/browser-use/browser-use"
+ },
+ {
+  "date": "2026-11-07",
+  "name": "Midscene.js",
+  "what": "page content changed",
+  "url": "https://github.com/web-infra-dev/midscene"
+ },
+ {
+  "date": "2026-11-07",
+  "name": "Alumnium",
+  "what": "page content changed",
+  "url": "https://github.com/alumnium-hq/alumnium"
+ },
+ {
+  "date": "2026-11-07",
+  "name": "Arbigent",
+  "what": "page content changed",
+  "url": "https://github.com/takahirom/arbigent"
+ },
+ {
+  "date": "2026-11-07",
+  "name": "TesterArmy e2e",
+  "what": "page content changed",
+  "url": "https://github.com/tester-army/e2e"
+ },
+ {
+  "date": "2026-11-07",
+  "name": "Magnitude",
+  "what": "page content changed",
+  "url": "https://github.com/magnitudedev/browser-agent"
+ },
+ {
+  "date": "2026-11-07",
+  "name": "Meticulous",
+  "what": "page content changed",
+  "url": "https://www.meticulous.ai"
+ },
+ {
+  "date": "2026-11-07",
+  "name": "Optics Framework",
+  "what": "page content changed",
+  "url": "https://github.com/mozarkai/optics-framework"
+ },
+ {
+  "date": "2026-11-07",
+  "name": "agent-qa (vostride)",
+  "what": "page content changed",
+  "url": "https://github.com/vostride/agent-qa"
+ },
+ {
+  "date": "2026-11-07",
+  "name": "Rainforest QA",
+  "what": "page content changed",
+  "url": "https://www.rainforestqa.com/pricing"
  }
 ]
