@@ -85,19 +85,19 @@
   ]
  },
  "playwright-mcp": {
-  "hash": "54ace397182dafde6227510f789914e5740ff5f889876e5ebcce896d69bacc85",
+  "hash": "f7b4c20aef07646c0afa40493467af6547c59127db5bc5b805dbd8dd19363d22",
   "prices": []
  },
  "stagehand": {
-  "hash": "df9bdc07ba8497d2db3c05c9e4fab5795e26afa13a9e5f1522ec92089ab7e85f",
+  "hash": "6ffffad2f8f767e83858373023b1ab36ddcaa70060868d83d01a5d88402da8b9",
   "prices": []
  },
  "skyvern": {
-  "hash": "cbe1ef97dbc0bdee60beb1dabe8823ad8d81c4ee52b8001e960fcc54b5bc4a99",
+  "hash": "6e5adc0cbf6232170a0629e29961bac98a7adcd2d3ab2c5df4a65892f6379a22",
   "prices": []
  },
  "browser-use": {
-  "hash": "59a8ea39a828ffd2c2511ff0195fbebe25ec4487ce7316c1da7277e236fe40db",
+  "hash": "6a16dda1cb9b0b29e3de81584687fea3a006450175990831caac1c72ac0e63a6",
   "prices": []
  },
  "testrigor": {
@@ -113,7 +113,7 @@
   "prices": []
  },
  "shortest": {
-  "hash": "15e4231e1c41a57a55f57f4bd7f246a959c7f180914bdd1bf640f937af35ef81",
+  "hash": "763bbba0ceafc6603ca3565b0f750570435a3734ccf549ae5a7950e458fd7362",
   "prices": []
  },
  "qa-tech": {
@@ -149,7 +149,7 @@
   "prices": []
  },
  "testerarmy-e2e": {
-  "hash": "a18df10e5316719d19ada0bfd81cbca6f7e7978c7b7bdfe86c3d045059af6224",
+  "hash": "e061e87c0cfc3d7ed9de301f84794e1399cf8b927631764a248365e8243f6406",
   "prices": []
  },
  "endtest": {
@@ -185,11 +185,11 @@
   "prices": []
  },
  "optics-framework": {
-  "hash": "88009b0822c7b657329a55c0003961a2ea2470b7e4ba94da2f7e0a0562950b3d",
+  "hash": "980eea1d21e10bce79c850aa342515a8674c21dac0fc6be11dabc0a3e85f8330",
   "prices": []
  },
  "agent-qa": {
-  "hash": "92617a7ed956f46314bbe05205a3d95e2576fdb471ca4300a66604dd8188bdf4",
+  "hash": "e1706277996042c489357256dbc86dff39d761de08b604bfa36c422ed97c1d2a",
   "prices": []
  },
  "autify-aximo": {
@@ -242,7 +242,7 @@
   ]
  },
  "rainforest-qa": {
-  "hash": "5a185fbb92148214d6363d86ca72e8de35647f7b0e6f13c5b19d922a746b129a",
+  "hash": "57c7d02801b0485673374d0b882880cece358da828a35232142fbd8aac718bdb",
   "prices": []
  },
  "autosana": {
@@ -281,6 +281,20 @@
  },
  "askui": {
   "hash": "8b522cc3c013e00e935dc62507c27a2b16662d55249b7245e4c18652811f4b3b",
+  "prices": []
+ },
+ "testwatch": {
+  "hash": "5fa39a3f486ad967199564ef5037a0ad1990781d0b6d155605a7eb8b9da9f84a",
+  "prices": [
+   "$249 / mo",
+   "$299 / mo",
+   "$79 / mo",
+   "$799 / mo",
+   "$99 / mo"
+  ]
+ },
+ "testchimp": {
+  "hash": "d36c7399ecee20a62802383f95a55b0ab1652d32dfbb680b4be70d8d9253895a",
   "prices": []
  }
 }
