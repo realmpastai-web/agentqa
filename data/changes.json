@@ -1762,5 +1762,59 @@
   "name": "Rainforest QA",
   "what": "page content changed",
   "url": "https://www.rainforestqa.com/pricing"
+ },
+ {
+  "date": "2026-11-09",
+  "name": "testRigor",
+  "what": "page content changed",
+  "url": "https://testrigor.com/sign-up/"
+ },
+ {
+  "date": "2026-11-09",
+  "name": "Katalon",
+  "what": "page content changed",
+  "url": "https://katalon.com/pricing"
+ },
+ {
+  "date": "2026-11-09",
+  "name": "Playwright MCP",
+  "what": "page content changed",
+  "url": "https://github.com/microsoft/playwright-mcp"
+ },
+ {
+  "date": "2026-11-09",
+  "name": "Stagehand",
+  "what": "page content changed",
+  "url": "https://github.com/browserbase/stagehand"
+ },
+ {
+  "date": "2026-11-09",
+  "name": "Skyvern",
+  "what": "page content changed",
+  "url": "https://github.com/Skyvern-AI/skyvern"
+ },
+ {
+  "date": "2026-11-09",
+  "name": "Browser Use",
+  "what": "page content changed",
+  "url": "https://github.com/browser-use/browser-use"
+ },
+ {
+  "date": "2026-11-09",
+  "name": "Midscene.js",
+  "what": "page content changed",
+  "url": "https://github.com/web-infra-dev/midscene"
+ },
+ {
+  "date": "2026-11-09",
+  "name": "TesterArmy e2e",
+  "what": "page content changed",
+  "url": "https://github.com/tester-army/e2e"
+ },
+ {
+  "date": "2026-11-09",
+  "name": "Optics Framework",
+  "what": "page content changed",
+  "url": "https://github.com/mozarkai/optics-framework"
  }
 ]

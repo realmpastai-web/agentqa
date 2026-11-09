@@ -12,7 +12,7 @@
   "prices": []
  },
  "katalon": {
-  "hash": "215a9dce243fd7a0067f85863db1d69c2d27dbbe9a0ed4f434d6d9703d16088a",
+  "hash": "45cd594cc7f3b081f3719aa580d1b23280fed6943e03431b71b91537bdccaa61",
   "prices": []
  },
  "browserstack-ai": {
@@ -85,23 +85,23 @@
   ]
  },
  "playwright-mcp": {
-  "hash": "a69a7c05eafdb5dc4af708535611122d690446870e04d0df79733f1eda51cce1",
+  "hash": "427114aa6e5b07321ff062ba8d9c19e152f3c4e74d80ed19b5b2be5f92669c2d",
   "prices": []
  },
  "stagehand": {
-  "hash": "2b97cf5eb8bfe80bfbc75fb6a706d1df3da2d337bfa9c949d6e62b558162f7c4",
+  "hash": "391a35a28086862be1202a951168cf7e3344247c605aaf2f0d7d8811de198471",
   "prices": []
  },
  "skyvern": {
-  "hash": "59b30311a259f45b5407a15b0579ddf3d791c9fe06873e78c0326b4b3d1099b7",
+  "hash": "326985059ae804e1d876baa30e3742f1f163b1ade84658e3a6f503eba9cce2d3",
   "prices": []
  },
  "browser-use": {
-  "hash": "ec15ee16b67e3bf25d42956842b7869cff3ddcd54d2129fbc2b216693975dc9c",
+  "hash": "640b92d0c6b812c46491a3407571544e0acfc8df419981cc3e660d9f8ff23f74",
   "prices": []
  },
  "testrigor": {
-  "hash": "7d940b8df650f30b66264fa42bbc1293ea9679199f3942e2a1244eed1afd1559",
+  "hash": "0a448f95102debc85bd798830359ed1d92e47a4ea506bd31d22a17a44a3e4f11",
   "prices": []
  },
  "autonoma": {
@@ -109,7 +109,7 @@
   "prices": []
  },
  "midscene": {
-  "hash": "d4d9f677e0b6704a89e4694befbc82b2d406cbedf69c36ce787602b4a27a522b",
+  "hash": "8599ea86d3aac21861d718f20e06721f06f9afcd7049ec592a4097649326407a",
   "prices": []
  },
  "shortest": {
@@ -149,7 +149,7 @@
   "prices": []
  },
  "testerarmy-e2e": {
-  "hash": "09501f02742f72324e1f1a507ae8d0e64bc229460a4c119d9e800f6c685b3280",
+  "hash": "8f43c0ea3aaf9fd2eebd7d47b1f2060e734d369973e682824ffd34aeeffc8253",
   "prices": []
  },
  "endtest": {
@@ -185,7 +185,7 @@
   "prices": []
  },
  "optics-framework": {
-  "hash": "b9f57ab7b04a787c473a308f3387818c2bae2d55936bed0dc9f34c2a3e832618",
+  "hash": "0fb636948c66c8ac565a2b6ae345c26b282d0e18308ef1dddc1a81f5d0da4555",
   "prices": []
  },
  "agent-qa": {
