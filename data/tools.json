@@ -15,7 +15,7 @@
    "CI (see site)"
   ],
   "source": "https://momentic.ai/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "testrigor",
@@ -34,7 +34,7 @@
    "see site"
   ],
   "source": "https://testrigor.com/sign-up/",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "mabl",
@@ -53,7 +53,7 @@
    "see site"
   ],
   "source": "https://www.mabl.com/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "katalon",
@@ -73,7 +73,7 @@
    "see site"
   ],
   "source": "https://katalon.com/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "browserstack-ai",
@@ -97,7 +97,7 @@
    "Appium"
   ],
   "source": "https://www.browserstack.com/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "testmu-ai",
@@ -121,7 +121,7 @@
    "Appium"
   ],
   "source": "https://www.testmu.ai/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "autonoma",
@@ -142,7 +142,7 @@
    "Appium"
   ],
   "source": "https://github.com/Autonoma-AI/autonoma",
-  "last_checked": "2026-11-08",
+  "last_checked": "2026-11-09",
   "license": "BSL-1.1 (source-available, not OSI open source); change license Apache-2.0"
  },
  {
@@ -162,7 +162,7 @@
    "see site"
   ],
   "source": "https://qodex.ai/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "qa-wolf",
@@ -182,7 +182,7 @@
    "Appium"
   ],
   "source": "https://www.qawolf.com/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "functionize",
@@ -199,7 +199,7 @@
    "coding agents (Studio)"
   ],
   "source": "https://www.functionize.com/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "applitools",
@@ -220,7 +220,7 @@
    "Cypress"
   ],
   "source": "https://applitools.com/pricing/",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "reflect",
@@ -238,7 +238,7 @@
    "see site"
   ],
   "source": "https://reflect.run/pricing/",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "virtuoso",
@@ -256,7 +256,7 @@
    "see site"
   ],
   "source": "https://www.virtuoso.qa/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "checksum",
@@ -275,7 +275,7 @@
    "CI"
   ],
   "source": "https://www.checksum.ai",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "keploy",
@@ -295,7 +295,7 @@
    "CI"
   ],
   "source": "https://keploy.io/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "playwright-mcp",
@@ -313,7 +313,7 @@
    "MCP clients"
   ],
   "source": "https://github.com/microsoft/playwright-mcp",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "stagehand",
@@ -331,7 +331,7 @@
    "Browserbase"
   ],
   "source": "https://github.com/browserbase/stagehand",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "skyvern",
@@ -348,7 +348,7 @@
    "Playwright"
   ],
   "source": "https://github.com/Skyvern-AI/skyvern",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "browser-use",
@@ -366,7 +366,7 @@
    "LLM providers"
   ],
   "source": "https://github.com/browser-use/browser-use",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "midscene",
@@ -389,7 +389,7 @@
    "YAML test cases"
   ],
   "source": "https://github.com/web-infra-dev/midscene",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "shortest",
@@ -409,7 +409,7 @@
    "Mailosaur"
   ],
   "source": "https://github.com/antiwork/shortest",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "qa-tech",
@@ -431,7 +431,7 @@
    "PR testing (Growth+)"
   ],
   "source": "https://qa.tech/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "testsigma",
@@ -451,7 +451,7 @@
    "30+ integrations (Pro); 40+ (Enterprise)"
   ],
   "source": "https://testsigma.com/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "alumnium",
@@ -476,7 +476,7 @@
    "Java"
   ],
   "source": "https://github.com/alumnium-hq/alumnium",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "testzeus-hercules",
@@ -500,7 +500,7 @@
    "CI/CD"
   ],
   "source": "https://github.com/test-zeus-ai/testzeus-hercules",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "arbigent",
@@ -524,7 +524,7 @@
    "Android Studio Journeys XML"
   ],
   "source": "https://github.com/takahirom/arbigent",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "testdriver",
@@ -548,7 +548,7 @@
   ],
   "license": "SDK repo github.com/testdriverai/testdriverai declares ISC in package.json; GitHub detects no LICENSE file",
   "source": "https://testdriver.ai/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "maestro",
@@ -573,7 +573,7 @@
   ],
   "license": "Apache-2.0 (github.com/mobile-dev-inc/Maestro); Maestro Studio desktop is free but not open source",
   "source": "https://maestro.dev/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "testerarmy-e2e",
@@ -597,7 +597,7 @@
   ],
   "license": "Apache-2.0; pre-1.0, APIs may change between minor releases (per README)",
   "source": "https://github.com/tester-army/e2e",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "endtest",
@@ -621,7 +621,7 @@
    "Endtest MCP"
   ],
   "source": "https://endtest.io/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "bug0",
@@ -643,7 +643,7 @@
   ],
   "license": "Managed service is commercial; its test engine Bug0 AI (github.com/bug0inc/qa-agent) is source-available under FSL-1.1-ALv2 (not an OSI open-source license)",
   "source": "https://bug0.com/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "ranger",
@@ -661,7 +661,7 @@
    "coding agents"
   ],
   "source": "https://www.ranger.net/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "donobu",
@@ -686,7 +686,7 @@
    "Slack/Teams reporting (Premium Teams)"
   ],
   "source": "https://www.donobu.com/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "magnitude",
@@ -705,7 +705,7 @@
    "Claude Sonnet 4 / Qwen-2.5VL 72B (bring your own model)"
   ],
   "source": "https://github.com/magnitudedev/browser-agent",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "meticulous",
@@ -723,7 +723,7 @@
    "CI integration (PR impact reports)"
   ],
   "source": "https://www.meticulous.ai",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "optics-framework",
@@ -752,7 +752,7 @@
   ],
   "license": "Apache-2.0 (github.com/mozarkai/optics-framework)",
   "source": "https://github.com/mozarkai/optics-framework",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "agent-qa",
@@ -775,7 +775,7 @@
   ],
   "license": "Functional Source License FSL-1.1-ALv2 (source-available; converts to Apache-2.0 later per license), not OSI open source",
   "source": "https://github.com/vostride/agent-qa",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "autify-aximo",
@@ -796,7 +796,7 @@
    "Visual regression testing"
   ],
   "source": "https://autify.com/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "diffblue",
@@ -817,7 +817,7 @@
    "Coverage verifiable with JaCoCo/Cobertura"
   ],
   "source": "https://www.diffblue.com/pricing/",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "testsprite",
@@ -840,7 +840,7 @@
    "Open-source CLI (per vendor homepage)"
   ],
   "source": "https://www.testsprite.com/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "tusk",
@@ -862,7 +862,7 @@
    "Self-hosting (Enterprise)"
   ],
   "source": "https://usetusk.ai/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "anytest",
@@ -881,7 +881,7 @@
    "Mobile and desktop testing scoped per product (custom)"
   ],
   "source": "https://anytest.dev/",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "testoptim",
@@ -905,7 +905,7 @@
    "SSO (Enterprise)"
   ],
   "source": "https://www.testoptim.com/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "bugshunter",
@@ -927,7 +927,7 @@
    "CI/CD (listed as coming soon)"
   ],
   "source": "https://bugshunter.ai/",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "contextqa",
@@ -956,7 +956,7 @@
    "SSO (Enterprise)"
   ],
   "source": "https://contextqa.com/pricing/",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "thunders",
@@ -988,7 +988,7 @@
    "Playwright/Cypress suite import (Enterprise)"
   ],
   "source": "https://www.thunders.ai/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "rainforest-qa",
@@ -1008,7 +1008,7 @@
    "CLI"
   ],
   "source": "https://www.rainforestqa.com/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "autosana",
@@ -1038,7 +1038,7 @@
    "RevenueCat purchase flows"
   ],
   "source": "https://autosana.ai/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "spur",
@@ -1060,7 +1060,7 @@
    "Slack Connect support channel"
   ],
   "source": "https://www.spurtest.com/",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "optestra",
@@ -1084,7 +1084,7 @@
    "Hosted test inbox for email codes"
   ],
   "source": "https://optestra.com/pricing/",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "sanitycheck",
@@ -1106,7 +1106,7 @@
    "Scheduled runs (hourly, daily, weekly)"
   ],
   "source": "https://sanitycheck.dev/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "decipher",
@@ -1131,7 +1131,7 @@
    "CI/CD test runs"
   ],
   "source": "https://getdeciphers.com/index.html",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "askui",
@@ -1156,7 +1156,7 @@
    "Bring-your-own model (Enterprise: Anthropic, OpenAI-compatible, self-hosted)"
   ],
   "source": "https://www.askui.com/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "testwatch",
@@ -1178,7 +1178,7 @@
    "JUnit download and suite export as a runnable Playwright project"
   ],
   "source": "https://testwatch.dev/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
  },
  {
   "slug": "testchimp",
@@ -1204,6 +1204,51 @@
    "Chrome extension and TestChimp Studio for manual sessions"
   ],
   "source": "https://testchimp.io/pricing",
-  "last_checked": "2026-11-08"
+  "last_checked": "2026-11-09"
+ },
+ {
+  "slug": "selora",
+  "name": "Selora",
+  "url": "https://seloraqa.com",
+  "category": "AI-native QA workspace (test recording and generation, execution, self-healing, AI exploration, visual review, release readiness)",
+  "tests": [
+   "web E2E (Playwright, Selenium; Pro lists 5 frameworks, only these two are named on the pricing page)",
+   "visual regression (Pro)",
+   "API testing (Pro)"
+  ],
+  "pricing": "Official pricing page (checked 2026-11-09): Free $0/mo (1 project, 50 test runs per month, Playwright and Selenium, core recording and generation workflow, community support; FAQ says start free with no credit card; execution pauses at quota). Pro $119/mo (unlimited projects, 5,000 test runs included then $0.05/run, all 5 frameworks, 500 AI credits/mo then $0.10/credit, AI self-healing, explore and generation, visual regression and API testing, GitHub PR integration, priority support). Enterprise: custom (SSO/SAML, audit logs and compliance exports, dedicated runner pools; contact sales). Standard test execution and artifact storage do not use AI credits.",
+  "free_tier": true,
+  "open_source": null,
+  "integrations": [
+   "GitHub PR integration (Pro)",
+   "Playwright and Selenium (Free); 5 frameworks on Pro",
+   "Browser recording",
+   "Dashboard and reporting"
+  ],
+  "source": "https://seloraqa.com/pricing",
+  "last_checked": "2026-11-09"
+ },
+ {
+  "slug": "autotesting",
+  "name": "Autotest.ing",
+  "url": "https://autotest.ing",
+  "category": "AI testing cloud (AI-generated Playwright regression suites from imported test cases; deploy gating; self-healing; post-deploy guard)",
+  "tests": [
+   "web regression (AI-generated Playwright tests)",
+   "post-deploy production flow monitoring (e.g. checkout, signup)"
+  ],
+  "pricing": "Official homepage pricing section (checked 2026-11-09): Starter $49/month (1 repository, 1 test agent, 200 runs per month), Team $149/month (3 repositories, 3 test agents, 1,000 runs per month, Case Importer for Jira, Linear and Notion), Infra $399/month (unlimited repositories, test agents and runs, VPC private network mode, audit logs and RBAC, dedicated support). The page says 'Start free' but lists no free plan with limits, so free tier is not verified.",
+  "free_tier": null,
+  "open_source": false,
+  "integrations": [
+   "GitHub Actions",
+   "GitLab CI",
+   "Bitbucket Pipelines",
+   "Jenkins",
+   "Jira, Linear, Notion and CSV case import",
+   "API and webhooks"
+  ],
+  "source": "https://autotest.ing/",
+  "last_checked": "2026-11-09"
  }
 ]
