@@ -12,7 +12,7 @@
   "prices": []
  },
  "katalon": {
-  "hash": "45cd594cc7f3b081f3719aa580d1b23280fed6943e03431b71b91537bdccaa61",
+  "hash": "a479e5721e1d88d5dc90ec156738f5c415b2ebe683908108d9fdb06c8933592e",
   "prices": []
  },
  "browserstack-ai": {
@@ -50,7 +50,7 @@
   "prices": []
  },
  "qa-wolf": {
-  "hash": "3454803e939dd5d986a147065937c884bc636b7d8d8d6a2158dd758b62bae16c",
+  "hash": "54a026cdc8a04fe600bc829fed506d9ffe64e87a8f229d9010dca2cab93f6979",
   "prices": []
  },
  "functionize": {
@@ -79,37 +79,37 @@
   "prices": []
  },
  "keploy": {
-  "hash": "84eebf0b230ee47958154e192d1f9c6eb0f79851a02b50f880a7651341ab7e05",
+  "hash": "b0844f71f896075f17335c235011e5dc665ee96390999585ea98a5f31d7989d7",
   "prices": [
    "$19/user"
   ]
  },
  "playwright-mcp": {
-  "hash": "427114aa6e5b07321ff062ba8d9c19e152f3c4e74d80ed19b5b2be5f92669c2d",
+  "hash": "e5b029fe47dae6e5734e6a01d3f0a6d91c363f67b79f2564ba6211a248933b0d",
   "prices": []
  },
  "stagehand": {
-  "hash": "391a35a28086862be1202a951168cf7e3344247c605aaf2f0d7d8811de198471",
+  "hash": "1f73a956def07ca355f16d4126bec18cbfcebf7ae18624a5c944a3fd42304a20",
   "prices": []
  },
  "skyvern": {
-  "hash": "326985059ae804e1d876baa30e3742f1f163b1ade84658e3a6f503eba9cce2d3",
+  "hash": "8801105e3773e7f0033a7a7094ed6e9354f8643de70350c0bc83825b6271c75f",
   "prices": []
  },
  "browser-use": {
-  "hash": "640b92d0c6b812c46491a3407571544e0acfc8df419981cc3e660d9f8ff23f74",
+  "hash": "4a0c873840f463002952c5b4782686222ec5736c29889c1d4de97b07aa8e34b8",
   "prices": []
  },
  "testrigor": {
-  "hash": "0a448f95102debc85bd798830359ed1d92e47a4ea506bd31d22a17a44a3e4f11",
+  "hash": "d0fa2dbbd4b5fe72792248a70c28d292d4212bc0402d9c2ddcc06e58e0462c6e",
   "prices": []
  },
  "autonoma": {
-  "hash": "2951af5fb1e768dc79334e57428252454aed454e7e2d4bb40f832aa213f5b756",
+  "hash": "9f2474a37a723abf877cfed30b514893efbd204266044af11dd4abbbe325e72d",
   "prices": []
  },
  "midscene": {
-  "hash": "8599ea86d3aac21861d718f20e06721f06f9afcd7049ec592a4097649326407a",
+  "hash": "b00d075d9852a920168ae2447f48e50c42a095147c5cf2708391dcf2022edcf4",
   "prices": []
  },
  "shortest": {
@@ -127,7 +127,7 @@
   "prices": []
  },
  "alumnium": {
-  "hash": "23c13025b98d42b90327aa3a1e12f919a906e5d04b5e3e38e3afd5e42f301a6a",
+  "hash": "14dc79f19c6415885fbe6cb090ae11f2c8c6e8cff3e3a01e2a6888388da0071f",
   "prices": []
  },
  "testzeus-hercules": {
@@ -139,7 +139,7 @@
   "prices": []
  },
  "testdriver": {
-  "hash": "39e543cddd81302220ee0a3a95f44f3b5ccce20690a60c805d73e9f224092749",
+  "hash": "ccbbe9f369ad74f16f93434a21ffc08425e3bd07092e9d6ea101eab944fef572",
   "prices": [
    "$24 / mo"
   ]
@@ -149,7 +149,7 @@
   "prices": []
  },
  "testerarmy-e2e": {
-  "hash": "8f43c0ea3aaf9fd2eebd7d47b1f2060e734d369973e682824ffd34aeeffc8253",
+  "hash": "ca462d92163a8829b901aeccc68fe90ed6604d86c93aa3f613d12150c2c080b3",
   "prices": []
  },
  "endtest": {
@@ -185,11 +185,11 @@
   "prices": []
  },
  "optics-framework": {
-  "hash": "0fb636948c66c8ac565a2b6ae345c26b282d0e18308ef1dddc1a81f5d0da4555",
+  "hash": "8317c8cbfa75054011dab670d3fea9f3724d919a188534220e44fa76b1e0ceb8",
   "prices": []
  },
  "agent-qa": {
-  "hash": "540775eba5578b9c187a560b129ab915b44a84f770ea2f58ef8eebf8f53610a1",
+  "hash": "4a174ed255b44dce447db6e4150ae6f8092717c9345dbb20e4ae156b05292b11",
   "prices": []
  },
  "autify-aximo": {
@@ -223,7 +223,7 @@
   "prices": []
  },
  "testoptim": {
-  "hash": "40a857da6429602f7ab62b0e19ee427ebe84a098dea527c9678b267611920f03",
+  "hash": "1a17402e863adda0002e532db271aea0605344590c6b77adc590069b634183f3",
   "prices": []
  },
  "bugshunter": {
@@ -235,14 +235,14 @@
   "prices": []
  },
  "thunders": {
-  "hash": "1480d35758dcc5960ec4f7d803825e40a176e84d59c25c374ef7f197c84e54c8",
+  "hash": "a8ec40c74ca72fb1507870275e6df3dc32a39477e2795e474eb2b5b817273215",
   "prices": [
    "$1000 /mo",
    "$375 /mo"
   ]
  },
  "rainforest-qa": {
-  "hash": "5a185fbb92148214d6363d86ca72e8de35647f7b0e6f13c5b19d922a746b129a",
+  "hash": "57c7d02801b0485673374d0b882880cece358da828a35232142fbd8aac718bdb",
   "prices": []
  },
  "autosana": {
@@ -294,7 +294,7 @@
   ]
  },
  "testchimp": {
-  "hash": "d36c7399ecee20a62802383f95a55b0ab1652d32dfbb680b4be70d8d9253895a",
+  "hash": "045c640232aa09815af9158a7bbe28e468162dd66e2aac7b2b1ccb9f2edd33e3",
   "prices": []
  },
  "selora": {
@@ -307,6 +307,16 @@
    "$149 /mo",
    "$399 /mo",
    "$49 /mo"
+  ]
+ },
+ "testifly": {
+  "hash": "6c35f9a71e824217578230cacc8b71e9c626b3f721a5a9d1ddf0901fc8842c54",
+  "prices": []
+ },
+ "devassure": {
+  "hash": "e4beca77dad9890db8921c4dbe822bed6eb9baa864cc387b8b78aae219262cf3",
+  "prices": [
+   "$900/mo"
   ]
  }
 }
