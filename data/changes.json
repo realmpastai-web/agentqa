@@ -1930,5 +1930,11 @@
   "name": "TestChimp",
   "what": "page content changed",
   "url": "https://testchimp.io/pricing"
+ },
+ {
+  "date": "2026-11-10",
+  "name": "Rainforest QA",
+  "what": "page content changed",
+  "url": "https://www.rainforestqa.com/pricing"
  }
 ]
