@@ -2242,5 +2242,17 @@
   "name": "Rainforest QA",
   "what": "page content changed",
   "url": "https://www.rainforestqa.com/pricing"
+ },
+ {
+  "date": "2026-11-13",
+  "name": "Skyvern",
+  "what": "page content changed",
+  "url": "https://github.com/Skyvern-AI/skyvern"
+ },
+ {
+  "date": "2026-11-13",
+  "name": "Rainforest QA",
+  "what": "page content changed",
+  "url": "https://www.rainforestqa.com/pricing"
  }
 ]
