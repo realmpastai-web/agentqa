@@ -2254,5 +2254,89 @@
   "name": "Rainforest QA",
   "what": "page content changed",
   "url": "https://www.rainforestqa.com/pricing"
+ },
+ {
+  "date": "2026-11-14",
+  "name": "Momentic",
+  "what": "page content changed",
+  "url": "https://momentic.ai/pricing"
+ },
+ {
+  "date": "2026-11-14",
+  "name": "testRigor",
+  "what": "page content changed",
+  "url": "https://testrigor.com/sign-up/"
+ },
+ {
+  "date": "2026-11-14",
+  "name": "Keploy",
+  "what": "page content changed",
+  "url": "https://keploy.io/pricing"
+ },
+ {
+  "date": "2026-11-14",
+  "name": "Playwright MCP",
+  "what": "page content changed",
+  "url": "https://github.com/microsoft/playwright-mcp"
+ },
+ {
+  "date": "2026-11-14",
+  "name": "Stagehand",
+  "what": "page content changed",
+  "url": "https://github.com/browserbase/stagehand"
+ },
+ {
+  "date": "2026-11-14",
+  "name": "Skyvern",
+  "what": "page content changed",
+  "url": "https://github.com/Skyvern-AI/skyvern"
+ },
+ {
+  "date": "2026-11-14",
+  "name": "Browser Use",
+  "what": "page content changed",
+  "url": "https://github.com/browser-use/browser-use"
+ },
+ {
+  "date": "2026-11-14",
+  "name": "Midscene.js",
+  "what": "page content changed",
+  "url": "https://github.com/web-infra-dev/midscene"
+ },
+ {
+  "date": "2026-11-14",
+  "name": "Alumnium",
+  "what": "page content changed",
+  "url": "https://github.com/alumnium-hq/alumnium"
+ },
+ {
+  "date": "2026-11-14",
+  "name": "TesterArmy e2e",
+  "what": "page content changed",
+  "url": "https://github.com/tester-army/e2e"
+ },
+ {
+  "date": "2026-11-14",
+  "name": "Optics Framework",
+  "what": "page content changed",
+  "url": "https://github.com/mozarkai/optics-framework"
+ },
+ {
+  "date": "2026-11-14",
+  "name": "TestOptim AI",
+  "what": "page content changed",
+  "url": "https://www.testoptim.com/pricing"
+ },
+ {
+  "date": "2026-11-14",
+  "name": "Thunders",
+  "what": "page content changed",
+  "url": "https://www.thunders.ai/pricing"
+ },
+ {
+  "date": "2026-11-14",
+  "name": "Rainforest QA",
+  "what": "page content changed",
+  "url": "https://www.rainforestqa.com/pricing"
  }
 ]
