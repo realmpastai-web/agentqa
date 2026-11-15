@@ -2422,5 +2422,11 @@
   "name": "Robonito",
   "what": "page content changed",
   "url": "https://robonito.com/pricing/"
+ },
+ {
+  "date": "2026-11-15",
+  "name": "Rainforest QA",
+  "what": "page content changed",
+  "url": "https://www.rainforestqa.com/pricing"
  }
 ]
