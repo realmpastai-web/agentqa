@@ -2344,5 +2344,83 @@
   "name": "Rainforest QA",
   "what": "page content changed",
   "url": "https://www.rainforestqa.com/pricing"
+ },
+ {
+  "date": "2026-11-15",
+  "name": "Playwright MCP",
+  "what": "page content changed",
+  "url": "https://github.com/microsoft/playwright-mcp"
+ },
+ {
+  "date": "2026-11-15",
+  "name": "Stagehand",
+  "what": "page content changed",
+  "url": "https://github.com/browserbase/stagehand"
+ },
+ {
+  "date": "2026-11-15",
+  "name": "Skyvern",
+  "what": "page content changed",
+  "url": "https://github.com/Skyvern-AI/skyvern"
+ },
+ {
+  "date": "2026-11-15",
+  "name": "Browser Use",
+  "what": "page content changed",
+  "url": "https://github.com/browser-use/browser-use"
+ },
+ {
+  "date": "2026-11-15",
+  "name": "Alumnium",
+  "what": "page content changed",
+  "url": "https://github.com/alumnium-hq/alumnium"
+ },
+ {
+  "date": "2026-11-15",
+  "name": "TestZeus Hercules",
+  "what": "page content changed",
+  "url": "https://github.com/test-zeus-ai/testzeus-hercules"
+ },
+ {
+  "date": "2026-11-15",
+  "name": "Arbigent",
+  "what": "page content changed",
+  "url": "https://github.com/takahirom/arbigent"
+ },
+ {
+  "date": "2026-11-15",
+  "name": "TesterArmy e2e",
+  "what": "page content changed",
+  "url": "https://github.com/tester-army/e2e"
+ },
+ {
+  "date": "2026-11-15",
+  "name": "Meticulous",
+  "what": "page content changed",
+  "url": "https://www.meticulous.ai"
+ },
+ {
+  "date": "2026-11-15",
+  "name": "agent-qa (vostride)",
+  "what": "page content changed",
+  "url": "https://github.com/vostride/agent-qa"
+ },
+ {
+  "date": "2026-11-15",
+  "name": "Rainforest QA",
+  "what": "page content changed",
+  "url": "https://www.rainforestqa.com/pricing"
+ },
+ {
+  "date": "2026-11-15",
+  "name": "Spur",
+  "what": "page content changed",
+  "url": "https://www.spurtest.com/"
+ },
+ {
+  "date": "2026-11-15",
+  "name": "Robonito",
+  "what": "page content changed",
+  "url": "https://robonito.com/pricing/"
  }
 ]
