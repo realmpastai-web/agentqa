@@ -85,19 +85,19 @@
   ]
  },
  "playwright-mcp": {
-  "hash": "4faf8027a350026f7a5a11c8ce9a32a2227bda31cc0f8c31d529169b57c7659f",
+  "hash": "293bab183a96ce88b2d8dab2c0e41b68f71adf551c8c94222bbb0d2c198d30c0",
   "prices": []
  },
  "stagehand": {
-  "hash": "6b4abfdd0d201f9f94518552e409289d7e97732b1fa8d1434cc6206799c77ed0",
+  "hash": "1e5f26af4d4ebcaba46378fdbead4fa856a9dd901a92081fd6849c0aa4defbfa",
   "prices": []
  },
  "skyvern": {
-  "hash": "6aa70d0d1e8eb2f0eedacc27e3b4309cd61090b9bdec51dbb2d8ed7788c265c1",
+  "hash": "c52802933f11ce2599e3cc1e0cd9e0e5cf05f4ada04eab46f6a85460b893c8d8",
   "prices": []
  },
  "browser-use": {
-  "hash": "0849767a4ca8b4cc19989a87e1741ffea65ae47f4bab369a958a4135bac17429",
+  "hash": "0608c7944bd388a3793f7b9a326f299d38169b35808c7e3ff34b6442ae5ca7e6",
   "prices": []
  },
  "testrigor": {
@@ -131,7 +131,7 @@
   "prices": []
  },
  "testzeus-hercules": {
-  "hash": "39796b3737167608a861da9baf62d24f31566d264b1c7967ecdbd00eb9bc99c3",
+  "hash": "9b5bae9eaf7e89699f43c230124edbaf588f45c6f819a20d21914981ef6129d7",
   "prices": []
  },
  "arbigent": {
@@ -149,7 +149,7 @@
   "prices": []
  },
  "testerarmy-e2e": {
-  "hash": "8523c3a7c6fd31fc3522cfb9b2cc7fe2810bb833bf2c10a9c2e0382db54cb4b1",
+  "hash": "215f208dac93f5fa45512c0de4d4f1448e774e5bc1ddc7f303db8227596b6339",
   "prices": []
  },
  "endtest": {
@@ -181,7 +181,7 @@
   "prices": []
  },
  "meticulous": {
-  "hash": "d66658e9fa4b5ed4dd28ed856c8f9f57e249938d14c58f993a3ecb3c70c6082c",
+  "hash": "b93ddca404cef408e71cd5114b757344aa40a5c41dbf434b7be5a0d13bf5fa4d",
   "prices": []
  },
  "optics-framework": {
@@ -242,7 +242,7 @@
   ]
  },
  "rainforest-qa": {
-  "hash": "5a185fbb92148214d6363d86ca72e8de35647f7b0e6f13c5b19d922a746b129a",
+  "hash": "57c7d02801b0485673374d0b882880cece358da828a35232142fbd8aac718bdb",
   "prices": []
  },
  "autosana": {
@@ -352,8 +352,11 @@
   ]
  },
  "robonito": {
-  "hash": "4568cb4d42b004fa0a93a77834c411aa1fb2bb1544d40a5667f71406cafe5121",
-  "prices": []
+  "hash": "f73caffd62db687df215cf5b675e9d290a2eb44666cbe490ca49318e001281a6",
+  "prices": [
+   "$66 / mo",
+   "$66.00 / mo"
+  ]
  },
  "bugbrain": {
   "hash": "967d10dfcf2e0cefa005bb2e6154accd4b89e5deb7da46d5ed64da509ba04168",
@@ -365,5 +368,14 @@
  "wopee-io": {
   "hash": "9e2ac6c34b8bf9db058f777142121718cbf053e2fdec2ba074982b52b2801425",
   "prices": []
+ },
+ "bugabase": {
+  "hash": "ec90037ab36ef38c1cab6333c4efc233c3f6a844cd6f5c0da25bf87d7a00768f",
+  "prices": [
+   "$0 /mo",
+   "$29 /mo",
+   "$299 /mo",
+   "$99 /mo"
+  ]
  }
 }
