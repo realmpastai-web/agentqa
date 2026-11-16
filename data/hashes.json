@@ -61,8 +61,10 @@
   ]
  },
  "applitools": {
-  "hash": "f4a7709c00e645f9ae7d8eadfda6ff76ded171bf3502861ecf70ef31775b43f4",
-  "prices": []
+  "hash": "bd87196385edfd70f516f971074bfa4613d87a09d7286f2b25a11cb318489622",
+  "prices": [
+   "$667 / mo"
+  ]
  },
  "reflect": {
   "hash": "63b505c8e01028d69077a372ce21f8e48f22db0ff22a21c4646e9d061e4fa46f",
@@ -91,11 +93,11 @@
   "prices": []
  },
  "skyvern": {
-  "hash": "c52802933f11ce2599e3cc1e0cd9e0e5cf05f4ada04eab46f6a85460b893c8d8",
+  "hash": "e494559e0298ae3af11f1afe01fd572719e8c08c1dad49303b063b3c921d119c",
   "prices": []
  },
  "browser-use": {
-  "hash": "0608c7944bd388a3793f7b9a326f299d38169b35808c7e3ff34b6442ae5ca7e6",
+  "hash": "5f38cbdf05c98ca2898b811ffd17e61a92580b4205bf3b8e7138dc2a9faf68d0",
   "prices": []
  },
  "testrigor": {
@@ -129,7 +131,7 @@
   "prices": []
  },
  "testzeus-hercules": {
-  "hash": "9b5bae9eaf7e89699f43c230124edbaf588f45c6f819a20d21914981ef6129d7",
+  "hash": "3bcc880b37919bc93e8e9290af6efa3db84c7c965efcac05486141df473d433d",
   "prices": []
  },
  "arbigent": {
@@ -147,7 +149,7 @@
   "prices": []
  },
  "testerarmy-e2e": {
-  "hash": "215f208dac93f5fa45512c0de4d4f1448e774e5bc1ddc7f303db8227596b6339",
+  "hash": "3ffea120d72a87e18e1e75c99e190daa732bb69e2e1bd2078d9fb8bf3b9b51f8",
   "prices": []
  },
  "endtest": {
