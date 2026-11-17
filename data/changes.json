@@ -2632,5 +2632,17 @@
   "name": "Testifly",
   "what": "page content changed",
   "url": "https://testifly.dev/pricing"
+ },
+ {
+  "date": "2026-11-17",
+  "name": "Browser Use",
+  "what": "page content changed",
+  "url": "https://github.com/browser-use/browser-use"
+ },
+ {
+  "date": "2026-11-17",
+  "name": "Rainforest QA",
+  "what": "page content changed",
+  "url": "https://www.rainforestqa.com/pricing"
  }
 ]
