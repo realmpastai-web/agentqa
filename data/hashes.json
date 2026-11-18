@@ -1,6 +1,6 @@
 {
  "momentic": {
-  "hash": "a6ccd6d1b317df28cd4ea4e4b48ed159ae78d4a16afb782bfcaa1050fc3db6bb",
+  "hash": "ecf7a387f20061d7c88e69604bd07ed5e3700bbc2069a78917576f1f49557f9a",
   "prices": [
    "$0 / mo",
    "$50 / mo",
@@ -8,11 +8,11 @@
   ]
  },
  "mabl": {
-  "hash": "6dd94e3f7eb4d718971716f441b2e69bf4c0ab0d6dafe8506896b1331ceb04ed",
+  "hash": "47d180a4c768cf89635bb7c6e64065bfb4782a1054b691593b8583e9955b53a8",
   "prices": []
  },
  "katalon": {
-  "hash": "6279621cd943e8e64f39aca31f82aea871e9d67298d07a75938b139dc279b7a0",
+  "hash": "5f2c0dd55d269270d000b8178d68e9facac7fd1375d26f68602b5b56e115a088",
   "prices": []
  },
  "browserstack-ai": {
@@ -50,7 +50,7 @@
   "prices": []
  },
  "qa-wolf": {
-  "hash": "54a026cdc8a04fe600bc829fed506d9ffe64e87a8f229d9010dca2cab93f6979",
+  "hash": "9f8decac2e4208d2904b7c4410ca93adb1e19ca7ca6028fcc5a3508e1291447c",
   "prices": []
  },
  "functionize": {
@@ -85,19 +85,19 @@
   ]
  },
  "playwright-mcp": {
-  "hash": "85eab9fcc14daab18c9684f5422bf9865af248025aa08326db97914df2aeb6db",
+  "hash": "3fb8dbe76bd7b4c202d858e99233b4ce20243b78c5b66fc075bc0d623f0eeab5",
   "prices": []
  },
  "stagehand": {
-  "hash": "57df2415f22832089039b5e94bada6017fc1abd14eb908e9f5c9ee352738cc5e",
+  "hash": "a471903a54f8a8b9c9cc2daec25549eff7062dab82059a20e236db6fb1b6925d",
   "prices": []
  },
  "skyvern": {
-  "hash": "7b0023d6b7d4990deca10d487dcc6d24bbaecd18e2d4a9aecd31a730e3898f84",
+  "hash": "9f2cbc9a63651cfb4f3fc37267b1c9bd8b9af3d090b54d3ae5bafb7e86e87db8",
   "prices": []
  },
  "browser-use": {
-  "hash": "824d41401ee94303448d8ffbbb7625a61c0fffcf7b40c36759e320a9577ad856",
+  "hash": "b22750eac4dfbd707756438dbcf5285ac59a0b57cb632e986cf756bbed3c3755",
   "prices": []
  },
  "testrigor": {
@@ -105,11 +105,11 @@
   "prices": []
  },
  "autonoma": {
-  "hash": "8a9184c3abd7f5d08b99af8b5871236427229b0de36788fd8213734ac004c457",
+  "hash": "abc366006674d8132b12e7b6d7d462069d4d698bf2f3f7e97b40954aec0289df",
   "prices": []
  },
  "midscene": {
-  "hash": "b3def7d070b6bd995240e2f4ee822b7875ac1e7e946103532636f124db3d52cb",
+  "hash": "d78c9893dfa8aef2cbcdc8dfa68254ed0c27e651eb76895cd755860040e9a4b9",
   "prices": []
  },
  "shortest": {
@@ -127,7 +127,7 @@
   "prices": []
  },
  "alumnium": {
-  "hash": "bf3c660fa7bfc6d81fecffb1326556f788085d7b26804091d94d9f10834b3e6e",
+  "hash": "ff2f83eaaaf3f10450e9347b618f87fc9bb5ff79f8ea1834fdcf753ebaf912c1",
   "prices": []
  },
  "testzeus-hercules": {
@@ -149,7 +149,7 @@
   "prices": []
  },
  "testerarmy-e2e": {
-  "hash": "b4a465df4fe484f7cafb966bed7726edd11f475ff781066110e2d3ec3e22efd7",
+  "hash": "b2053347ef992853697ca868ec57abc0f48f4b2ecc28c12196aaaa4615d840ce",
   "prices": []
  },
  "endtest": {
@@ -185,11 +185,11 @@
   "prices": []
  },
  "optics-framework": {
-  "hash": "f688131797f0dfe99bd11aafc27810b4b5d90d5c466c831a9c6271721c75924a",
+  "hash": "e00537f854bd9d20b12901b06b17d59e8409bfe4f9a78011548e73efaecd8c3d",
   "prices": []
  },
  "agent-qa": {
-  "hash": "a3cd508868df765608e2f3eecdd0cc9db8e63f81fb3ce27169d15642dc314c81",
+  "hash": "429e596f29bb57655088c9f7f0071181b202b0ff4a2bf7f5c68872960e64fab4",
   "prices": []
  },
  "autify-aximo": {
@@ -235,14 +235,14 @@
   "prices": []
  },
  "thunders": {
-  "hash": "8f0f9c3660500f21e2e4d0997e7951d10b0d78be4708adb81f82ea60873c8a9d",
+  "hash": "603b3d591c17978e784ed31327642632c035d602244fa00144da518bc9f82531",
   "prices": [
    "$1000 /mo",
    "$375 /mo"
   ]
  },
  "rainforest-qa": {
-  "hash": "5a185fbb92148214d6363d86ca72e8de35647f7b0e6f13c5b19d922a746b129a",
+  "hash": "57c7d02801b0485673374d0b882880cece358da828a35232142fbd8aac718bdb",
   "prices": []
  },
  "autosana": {
@@ -352,7 +352,7 @@
   ]
  },
  "robonito": {
-  "hash": "f73caffd62db687df215cf5b675e9d290a2eb44666cbe490ca49318e001281a6",
+  "hash": "303f21f50c45bcfde31bae55728bb670b891c92d5e6b2aed6b3a021a4ba152b5",
   "prices": [
    "$66 / mo",
    "$66.00 / mo"
@@ -386,5 +386,9 @@
    "$98 /mo",
    "$999 /mo"
   ]
+ },
+ "qate": {
+  "hash": "de95e08d2dae1f3af243f906e5765eac8e8f7f889b93ff23aa7e15ed8f08e998",
+  "prices": []
  }
 }
