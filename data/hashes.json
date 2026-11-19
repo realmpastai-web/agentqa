@@ -1,6 +1,6 @@
 {
  "momentic": {
-  "hash": "ecf7a387f20061d7c88e69604bd07ed5e3700bbc2069a78917576f1f49557f9a",
+  "hash": "0328ff9cce899d29f4884655ff2d42f74d9fb2aa8b30ba0c6dc3970b64cd8fc0",
   "prices": [
    "$0 / mo",
    "$50 / mo",
@@ -12,15 +12,15 @@
   "prices": []
  },
  "katalon": {
-  "hash": "5f2c0dd55d269270d000b8178d68e9facac7fd1375d26f68602b5b56e115a088",
+  "hash": "88ebf0f41773010c41ea41c4e9d2ec303da661f2062935368263ea7d7f1dffc8",
   "prices": []
  },
  "browserstack-ai": {
-  "hash": "ed0318dd1d6e2ccd5320c8983d58947965bdac9ea52b72b3637a1106c1cc6d4e",
+  "hash": "a38a69adc84385a6ff3f07c72780c990d8323cb8fe77552892395bd6be67aba7",
   "prices": []
  },
  "testmu-ai": {
-  "hash": "f1dbe9dd724f36217614999a1068d49dc8bd28796334f9f629beb68f449cdc5b",
+  "hash": "6b3063e53318706d9360ce39747be92aa73c3d80f405fe9040323c5a2ebd1aac",
   "prices": [
    "$103/mo",
    "$139 /mo",
@@ -61,10 +61,8 @@
   ]
  },
  "applitools": {
-  "hash": "bd87196385edfd70f516f971074bfa4613d87a09d7286f2b25a11cb318489622",
-  "prices": [
-   "$667 / mo"
-  ]
+  "hash": "f4a7709c00e645f9ae7d8eadfda6ff76ded171bf3502861ecf70ef31775b43f4",
+  "prices": []
  },
  "reflect": {
   "hash": "f32549e2d52edab3fa163bc200ddcd958549a04f84db25eb24aeed57f4085228",
@@ -85,19 +83,19 @@
   ]
  },
  "playwright-mcp": {
-  "hash": "3fb8dbe76bd7b4c202d858e99233b4ce20243b78c5b66fc075bc0d623f0eeab5",
+  "hash": "e6522c54f65ee99bf24975b922f2f9433328b64b14d0be46635275e5cfd3d6e6",
   "prices": []
  },
  "stagehand": {
-  "hash": "a471903a54f8a8b9c9cc2daec25549eff7062dab82059a20e236db6fb1b6925d",
+  "hash": "1e3cc39d74e0319e990aa580a7e4777f0b0f1c7c5f640d0c7434346a055e6fc1",
   "prices": []
  },
  "skyvern": {
-  "hash": "9f2cbc9a63651cfb4f3fc37267b1c9bd8b9af3d090b54d3ae5bafb7e86e87db8",
+  "hash": "41632a26f7ff54c68c2b805a400338aa9dd4fc7ba63a983b1726161a4460af15",
   "prices": []
  },
  "browser-use": {
-  "hash": "b22750eac4dfbd707756438dbcf5285ac59a0b57cb632e986cf756bbed3c3755",
+  "hash": "48803739a265ddb815c56d81d4495eb47b0715229fedb2d5c574124f4435a233",
   "prices": []
  },
  "testrigor": {
@@ -109,7 +107,7 @@
   "prices": []
  },
  "midscene": {
-  "hash": "d78c9893dfa8aef2cbcdc8dfa68254ed0c27e651eb76895cd755860040e9a4b9",
+  "hash": "fc728fab2d4f78c8b1352f4e24c56a25dfe8602cd798313c0722672cf9ad51bf",
   "prices": []
  },
  "shortest": {
@@ -127,11 +125,11 @@
   "prices": []
  },
  "alumnium": {
-  "hash": "ff2f83eaaaf3f10450e9347b618f87fc9bb5ff79f8ea1834fdcf753ebaf912c1",
+  "hash": "67e44fb4d131bbdae1b9bdb57b3071b61ebcf432285d32dfc308571d73b54a49",
   "prices": []
  },
  "testzeus-hercules": {
-  "hash": "d4043a86b8e7028e7f70fa0259929128f921c2307479386265320854e8caf51c",
+  "hash": "3bcc880b37919bc93e8e9290af6efa3db84c7c965efcac05486141df473d433d",
   "prices": []
  },
  "arbigent": {
@@ -149,7 +147,7 @@
   "prices": []
  },
  "testerarmy-e2e": {
-  "hash": "b2053347ef992853697ca868ec57abc0f48f4b2ecc28c12196aaaa4615d840ce",
+  "hash": "b7cc1d314a829e8d8cf77e98943bc15c70ad111a107a52d190eb696ede225261",
   "prices": []
  },
  "endtest": {
@@ -177,19 +175,19 @@
   ]
  },
  "magnitude": {
-  "hash": "c4c3ba6da8358ffb1cc60af129fc03902958d5f939810147b551c327d0bfba91",
+  "hash": "822ffa808f67c1df84c0d48e476011067640c4585e3db35b040bcead42c4c5a0",
   "prices": []
  },
  "meticulous": {
-  "hash": "b93ddca404cef408e71cd5114b757344aa40a5c41dbf434b7be5a0d13bf5fa4d",
+  "hash": "9d31dd04af49ce8e46513259140b439f8496401c4f8ff454837505aa1da0bcd0",
   "prices": []
  },
  "optics-framework": {
-  "hash": "e00537f854bd9d20b12901b06b17d59e8409bfe4f9a78011548e73efaecd8c3d",
+  "hash": "9ee4560c56bc55b4b3c194b71625e57bde00d904bc865d309672aa32735c548b",
   "prices": []
  },
  "agent-qa": {
-  "hash": "429e596f29bb57655088c9f7f0071181b202b0ff4a2bf7f5c68872960e64fab4",
+  "hash": "469b913203695f9a4d358721a9bb6e3f0adebf768ecaa48a4fb9ff922be5f103",
   "prices": []
  },
  "autify-aximo": {
@@ -242,11 +240,11 @@
   ]
  },
  "rainforest-qa": {
-  "hash": "5a185fbb92148214d6363d86ca72e8de35647f7b0e6f13c5b19d922a746b129a",
+  "hash": "57c7d02801b0485673374d0b882880cece358da828a35232142fbd8aac718bdb",
   "prices": []
  },
  "autosana": {
-  "hash": "58ff76af91af7cd3dffa22bd688d804cc4e1dfa102807633da372eda5f3b95e2",
+  "hash": "3a7a4a51191653cfbb83c7395f775df7f74b827413d6d39fd2223a15cd6508eb",
   "prices": [
    "$2,499 /mo",
    "$999 /mo"
@@ -388,7 +386,7 @@
   ]
  },
  "qate": {
-  "hash": "de95e08d2dae1f3af243f906e5765eac8e8f7f889b93ff23aa7e15ed8f08e998",
+  "hash": "d93973c09999516242d7d265b33cce6ee86732ab342894bc3efe16cef6ff8a8d",
   "prices": []
  }
 }
