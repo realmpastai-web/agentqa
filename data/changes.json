@@ -2872,5 +2872,23 @@
   "name": "Qate AI",
   "what": "page content changed",
   "url": "https://www.qate.ai"
+ },
+ {
+  "date": "2026-11-19",
+  "name": "Applitools",
+  "what": "pricing figures changed: $667 / mo",
+  "url": "https://applitools.com/pricing/"
+ },
+ {
+  "date": "2026-11-19",
+  "name": "Midscene.js",
+  "what": "page content changed",
+  "url": "https://github.com/web-infra-dev/midscene"
+ },
+ {
+  "date": "2026-11-19",
+  "name": "Rainforest QA",
+  "what": "page content changed",
+  "url": "https://www.rainforestqa.com/pricing"
  }
 ]
