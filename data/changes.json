@@ -3100,5 +3100,77 @@
   "name": "Rainforest QA",
   "what": "page content changed",
   "url": "https://www.rainforestqa.com/pricing"
+ },
+ {
+  "date": "2026-11-22",
+  "name": "TestMu AI (formerly LambdaTest)",
+  "what": "page content changed",
+  "url": "https://www.testmu.ai/pricing"
+ },
+ {
+  "date": "2026-11-22",
+  "name": "Qodex",
+  "what": "page content changed",
+  "url": "https://qodex.ai/pricing"
+ },
+ {
+  "date": "2026-11-22",
+  "name": "Playwright MCP",
+  "what": "page content changed",
+  "url": "https://github.com/microsoft/playwright-mcp"
+ },
+ {
+  "date": "2026-11-22",
+  "name": "Stagehand",
+  "what": "page content changed",
+  "url": "https://github.com/browserbase/stagehand"
+ },
+ {
+  "date": "2026-11-22",
+  "name": "Skyvern",
+  "what": "page content changed",
+  "url": "https://github.com/Skyvern-AI/skyvern"
+ },
+ {
+  "date": "2026-11-22",
+  "name": "Browser Use",
+  "what": "page content changed",
+  "url": "https://github.com/browser-use/browser-use"
+ },
+ {
+  "date": "2026-11-22",
+  "name": "Midscene.js",
+  "what": "page content changed",
+  "url": "https://github.com/web-infra-dev/midscene"
+ },
+ {
+  "date": "2026-11-22",
+  "name": "Alumnium",
+  "what": "page content changed",
+  "url": "https://github.com/alumnium-hq/alumnium"
+ },
+ {
+  "date": "2026-11-22",
+  "name": "TesterArmy e2e",
+  "what": "page content changed",
+  "url": "https://github.com/tester-army/e2e"
+ },
+ {
+  "date": "2026-11-22",
+  "name": "Optics Framework",
+  "what": "page content changed",
+  "url": "https://github.com/mozarkai/optics-framework"
+ },
+ {
+  "date": "2026-11-22",
+  "name": "Rainforest QA",
+  "what": "page content changed",
+  "url": "https://www.rainforestqa.com/pricing"
+ },
+ {
+  "date": "2026-11-22",
+  "name": "Robonito",
+  "what": "page content changed",
+  "url": "https://robonito.com/pricing/"
  }
 ]
