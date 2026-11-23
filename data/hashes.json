@@ -46,7 +46,7 @@
   ]
  },
  "qodex": {
-  "hash": "9a3e4d3a1e27049183f44cfedbab4cc4b549c40ff10688b4e5e03bd06645f11f",
+  "hash": "aee9a38f2c33d14997dc91523e1affc19f6e7dd8a6bec9c76ceb4cb2fe04f00b",
   "prices": []
  },
  "qa-wolf": {
@@ -93,11 +93,11 @@
   "prices": []
  },
  "skyvern": {
-  "hash": "a684d1830ed945ee44edbddc3e9b3fe2179e7e31089b8de883812b360f596085",
+  "hash": "7c406900b7252b72e598e9be4dca0e237ba11851ffb4712a4365ab0b4e50fb2f",
   "prices": []
  },
  "browser-use": {
-  "hash": "895369a8a9caade8febc0bf8ede13fa3e42cdab84dadb6417c4f6b07f5c919d2",
+  "hash": "355e0da57edb50967d5da8c84573ab8d21875259a4fd7a21abf604e515590d4e",
   "prices": []
  },
  "testrigor": {
@@ -109,7 +109,7 @@
   "prices": []
  },
  "midscene": {
-  "hash": "734db48176733e4a7253214f85837b10649b7834e1066c069ee6a05d31872da6",
+  "hash": "d8485d0e9905372c1c2594ae1f4fa5ff3113166c26383940a865c83bee336691",
   "prices": []
  },
  "shortest": {
@@ -149,7 +149,7 @@
   "prices": []
  },
  "testerarmy-e2e": {
-  "hash": "0eb5886216fe5ba9ba047de40c0e3213d93768800f84ab13a2a0f53bb1284807",
+  "hash": "2775e3dbb2de7350a783917407358ad3620afefa6a49d90a63fc3c3143d37b60",
   "prices": []
  },
  "endtest": {
@@ -189,7 +189,7 @@
   "prices": []
  },
  "agent-qa": {
-  "hash": "7e5e251f18f7d0fc05dff8d4060ea82a61d0fd27350d783be9cfae9aff966d99",
+  "hash": "f812bf5c81a0f64455165984b0a24cead6b1628973b673d17da9e750b703388c",
   "prices": []
  },
  "autify-aximo": {
