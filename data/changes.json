@@ -3256,5 +3256,11 @@
   "name": "Robonito",
   "what": "pricing figures changed: $199/mo, $66 / mo, $66.00 / mo",
   "url": "https://robonito.com/pricing/"
+ },
+ {
+  "date": "2026-11-23",
+  "name": "Rainforest QA",
+  "what": "page content changed",
+  "url": "https://www.rainforestqa.com/pricing"
  }
 ]
