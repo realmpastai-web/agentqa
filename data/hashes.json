@@ -1,6 +1,6 @@
 {
  "momentic": {
-  "hash": "373087719a76e33aa39d885fd64b68ec63a92506e7dc127eae3484a987e942d5",
+  "hash": "ea1b62a5c853cf5b8cc61d1d8329de9fc24185911f4ae8b3f499af66f58a8bc3",
   "prices": [
    "$0 / mo",
    "$50 / mo",
@@ -8,7 +8,7 @@
   ]
  },
  "mabl": {
-  "hash": "a702da462819e66bb9c84e25398bace160fad1fa7e517802bb102d96b602cdd4",
+  "hash": "8e6b05306c7649fba8c6747ed55de05f5598f20409ce71de082acf10bba5b2a0",
   "prices": []
  },
  "katalon": {
@@ -54,7 +54,7 @@
   "prices": []
  },
  "functionize": {
-  "hash": "e0f86e3a75e3877c51caadd1b56b71eb62d362f28ef756129bce24b81800dfae",
+  "hash": "53de42b52366771927b49e81b9f933802e4057be60fb3d606c37f5846e3fb5d3",
   "prices": [
    "$100 /mo",
    "$20 /mo"
@@ -85,19 +85,19 @@
   ]
  },
  "playwright-mcp": {
-  "hash": "be44129df583b3d8904b8b1ee0c88843bb87d18cf37524448df3978f766fb77a",
+  "hash": "d83af218ff753236ef3c7371df7b8c53016a8f0bfbc055f4893717437582305c",
   "prices": []
  },
  "stagehand": {
-  "hash": "72f2fecb20d3ab4556ee036f388808850a0746b890efd0fab855cb6ede8c6938",
+  "hash": "6d2cd73b3c27f2f9e4f27faa5dd3d7a47fc061fef61a223b5e17d4a634bb1be6",
   "prices": []
  },
  "skyvern": {
-  "hash": "7c406900b7252b72e598e9be4dca0e237ba11851ffb4712a4365ab0b4e50fb2f",
+  "hash": "96088c4ac1b1b357b3b719a5825770e700584758f4a2a9fa3a2e9f29d7189366",
   "prices": []
  },
  "browser-use": {
-  "hash": "355e0da57edb50967d5da8c84573ab8d21875259a4fd7a21abf604e515590d4e",
+  "hash": "79ba467f4d3bc6207aa39566aa219b70a866659c6ba5cbbc571f35228c68a021",
   "prices": []
  },
  "testrigor": {
@@ -105,11 +105,11 @@
   "prices": []
  },
  "autonoma": {
-  "hash": "de0d9ce26af934ece439cb1a8950345410af66edd0b1c3ba88ad53e7b491d6b1",
+  "hash": "55eeff890c4f6b9824ecaeb4ace6ef0f44afb1254c3a5b7ba826b25f18ca5d4e",
   "prices": []
  },
  "midscene": {
-  "hash": "d8485d0e9905372c1c2594ae1f4fa5ff3113166c26383940a865c83bee336691",
+  "hash": "b17d60ddfc4dbc243424ecff90cd5036fdb45b227db09b7db793c78e66174bcd",
   "prices": []
  },
  "shortest": {
@@ -127,11 +127,11 @@
   "prices": []
  },
  "alumnium": {
-  "hash": "4933bb44e2cea4d1c1857f65adb0cc54018cd630c711acbe10f1b2136cb902e3",
+  "hash": "e7d61585a67c40413fc8d2daa757a4fab29367d9aef7a2a7168c84ef2c1f8ad0",
   "prices": []
  },
  "testzeus-hercules": {
-  "hash": "267514d616b5f516f77ee2059d36185b436260031432ed066a8299ac242cc25c",
+  "hash": "07d0021c799da07619c3eb27510559448933bf2f97358d251f70f0b7accb0712",
   "prices": []
  },
  "arbigent": {
@@ -149,7 +149,7 @@
   "prices": []
  },
  "testerarmy-e2e": {
-  "hash": "2775e3dbb2de7350a783917407358ad3620afefa6a49d90a63fc3c3143d37b60",
+  "hash": "3fa15deb42a08280ba7aa5d0b032e03d334bad59dd59843e9de21c5886961eac",
   "prices": []
  },
  "endtest": {
@@ -185,11 +185,11 @@
   "prices": []
  },
  "optics-framework": {
-  "hash": "3021eec98251e7afa2b4aea0d104354a26e56b21f6ab1bfc5ca16a0fee3d9c06",
+  "hash": "5dbbdaf15ff866535c4afb041079a5ab6a546e3fe78e8b16b9a761ba12ca4de6",
   "prices": []
  },
  "agent-qa": {
-  "hash": "f812bf5c81a0f64455165984b0a24cead6b1628973b673d17da9e750b703388c",
+  "hash": "05c12eaeaa69e7a7cabf99ce5e7233e951ffcc1e099bd57210c9ba128fcec3f2",
   "prices": []
  },
  "autify-aximo": {
@@ -242,7 +242,7 @@
   ]
  },
  "rainforest-qa": {
-  "hash": "5a185fbb92148214d6363d86ca72e8de35647f7b0e6f13c5b19d922a746b129a",
+  "hash": "57c7d02801b0485673374d0b882880cece358da828a35232142fbd8aac718bdb",
   "prices": []
  },
  "autosana": {
@@ -253,7 +253,7 @@
   ]
  },
  "spur": {
-  "hash": "249396d51b013f911bad56147651037ccb52af42a84c456d175510dfd78cc2d9",
+  "hash": "9460debfafbbfaf3370d954ee96b7ffce5399c8b42cd891814d7068dd2ec6644",
   "prices": []
  },
  "optestra": {
@@ -367,7 +367,7 @@
   ]
  },
  "wopee-io": {
-  "hash": "9e2ac6c34b8bf9db058f777142121718cbf053e2fdec2ba074982b52b2801425",
+  "hash": "2f5f47ec522db92c4a7fd329bdd161999906eac0254abc996f7d1e2db126e0cc",
   "prices": []
  },
  "bugabase": {
@@ -389,7 +389,7 @@
   ]
  },
  "qate": {
-  "hash": "d93973c09999516242d7d265b33cce6ee86732ab342894bc3efe16cef6ff8a8d",
+  "hash": "6556748ad9ca2565516369d0e66b71939c2cd7d238057a84c229881e5aeded28",
   "prices": []
  },
  "playwright-test-agents": {
@@ -410,6 +410,14 @@
  },
  "sauce-ai-agents": {
   "hash": "e724c215a8846ac6e056c2621be18ec49b45d6508e5d3cd2b2ffc8f598c739ac",
+  "prices": []
+ },
+ "testim": {
+  "hash": "739d6d2495ebd1f37674b926f8ce13a5ddb2b53f5f5b930913de06de1347ba7a",
+  "prices": []
+ },
+ "leapwork": {
+  "hash": "4f4fe02ad1615ab3feabcc891f4a54d518ee47520832180b1c08e02b4c8a6d70",
   "prices": []
  }
 }
