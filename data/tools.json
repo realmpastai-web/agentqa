@@ -142,7 +142,7 @@
    "Appium"
   ],
   "source": "https://github.com/Autonoma-AI/autonoma",
-  "last_checked": "2026-11-24",
+  "last_checked": "2026-11-25",
   "license": "BSL-1.1 (source-available, not OSI open source); change license Apache-2.0"
  },
  {
@@ -313,7 +313,7 @@
    "MCP clients"
   ],
   "source": "https://github.com/microsoft/playwright-mcp",
-  "last_checked": "2026-11-24"
+  "last_checked": "2026-11-25"
  },
  {
   "slug": "stagehand",
@@ -331,7 +331,7 @@
    "Browserbase"
   ],
   "source": "https://github.com/browserbase/stagehand",
-  "last_checked": "2026-11-24"
+  "last_checked": "2026-11-25"
  },
  {
   "slug": "skyvern",
@@ -348,7 +348,7 @@
    "Playwright"
   ],
   "source": "https://github.com/Skyvern-AI/skyvern",
-  "last_checked": "2026-11-24"
+  "last_checked": "2026-11-25"
  },
  {
   "slug": "browser-use",

@@ -3502,5 +3502,29 @@
   "name": "Wopee.io",
   "what": "page content changed",
   "url": "https://wopee.io/pricing"
+ },
+ {
+  "date": "2026-11-25",
+  "name": "Autonoma",
+  "what": "page content changed",
+  "url": "https://github.com/Autonoma-AI/autonoma"
+ },
+ {
+  "date": "2026-11-25",
+  "name": "Stagehand",
+  "what": "page content changed",
+  "url": "https://github.com/browserbase/stagehand"
+ },
+ {
+  "date": "2026-11-25",
+  "name": "Skyvern",
+  "what": "page content changed",
+  "url": "https://github.com/Skyvern-AI/skyvern"
+ },
+ {
+  "date": "2026-11-25",
+  "name": "Rainforest QA",
+  "what": "page content changed",
+  "url": "https://www.rainforestqa.com/pricing"
  }
 ]

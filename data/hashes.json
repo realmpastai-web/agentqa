@@ -89,11 +89,11 @@
   "prices": []
  },
  "stagehand": {
-  "hash": "6d2cd73b3c27f2f9e4f27faa5dd3d7a47fc061fef61a223b5e17d4a634bb1be6",
+  "hash": "8079611cbd47fc0f4dbbe04ccf8efe87258a76b8fe4ef17f9052c6369f732d64",
   "prices": []
  },
  "skyvern": {
-  "hash": "96088c4ac1b1b357b3b719a5825770e700584758f4a2a9fa3a2e9f29d7189366",
+  "hash": "514e24c9e35336d97a3c5b9fb0744991c5d3fd390050ff79d9a5ca1815dacdb0",
   "prices": []
  },
  "browser-use": {
@@ -105,7 +105,7 @@
   "prices": []
  },
  "autonoma": {
-  "hash": "55eeff890c4f6b9824ecaeb4ace6ef0f44afb1254c3a5b7ba826b25f18ca5d4e",
+  "hash": "e8fb875ff7a6ed1a3e28bff9361f695b152506a1122bb256fb0bf1e1f00c8b45",
   "prices": []
  },
  "midscene": {
@@ -240,7 +240,7 @@
   ]
  },
  "rainforest-qa": {
-  "hash": "57c7d02801b0485673374d0b882880cece358da828a35232142fbd8aac718bdb",
+  "hash": "5a185fbb92148214d6363d86ca72e8de35647f7b0e6f13c5b19d922a746b129a",
   "prices": []
  },
  "autosana": {
