@@ -3418,5 +3418,89 @@
   "name": "Rainforest QA",
   "what": "page content changed",
   "url": "https://www.rainforestqa.com/pricing"
+ },
+ {
+  "date": "2026-11-25",
+  "name": "Momentic",
+  "what": "page content changed",
+  "url": "https://momentic.ai/pricing"
+ },
+ {
+  "date": "2026-11-25",
+  "name": "mabl",
+  "what": "page content changed",
+  "url": "https://www.mabl.com/pricing"
+ },
+ {
+  "date": "2026-11-25",
+  "name": "QA Wolf",
+  "what": "page content changed",
+  "url": "https://www.qawolf.com/pricing"
+ },
+ {
+  "date": "2026-11-25",
+  "name": "Browser Use",
+  "what": "page content changed",
+  "url": "https://github.com/browser-use/browser-use"
+ },
+ {
+  "date": "2026-11-25",
+  "name": "Midscene.js",
+  "what": "page content changed",
+  "url": "https://github.com/web-infra-dev/midscene"
+ },
+ {
+  "date": "2026-11-25",
+  "name": "Alumnium",
+  "what": "page content changed",
+  "url": "https://github.com/alumnium-hq/alumnium"
+ },
+ {
+  "date": "2026-11-25",
+  "name": "TestZeus Hercules",
+  "what": "page content changed",
+  "url": "https://github.com/test-zeus-ai/testzeus-hercules"
+ },
+ {
+  "date": "2026-11-25",
+  "name": "TestDriver",
+  "what": "pricing figures changed: ",
+  "url": "https://testdriver.ai/pricing"
+ },
+ {
+  "date": "2026-11-25",
+  "name": "TesterArmy e2e",
+  "what": "page content changed",
+  "url": "https://github.com/tester-army/e2e"
+ },
+ {
+  "date": "2026-11-25",
+  "name": "agent-qa (vostride)",
+  "what": "page content changed",
+  "url": "https://github.com/vostride/agent-qa"
+ },
+ {
+  "date": "2026-11-25",
+  "name": "Thunders",
+  "what": "page content changed",
+  "url": "https://www.thunders.ai/pricing"
+ },
+ {
+  "date": "2026-11-25",
+  "name": "Rainforest QA",
+  "what": "page content changed",
+  "url": "https://www.rainforestqa.com/pricing"
+ },
+ {
+  "date": "2026-11-25",
+  "name": "Testifly",
+  "what": "page content changed",
+  "url": "https://testifly.dev/pricing"
+ },
+ {
+  "date": "2026-11-25",
+  "name": "Wopee.io",
+  "what": "page content changed",
+  "url": "https://wopee.io/pricing"
  }
 ]
