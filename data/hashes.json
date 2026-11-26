@@ -240,7 +240,7 @@
   ]
  },
  "rainforest-qa": {
-  "hash": "57c7d02801b0485673374d0b882880cece358da828a35232142fbd8aac718bdb",
+  "hash": "5a185fbb92148214d6363d86ca72e8de35647f7b0e6f13c5b19d922a746b129a",
   "prices": []
  },
  "autosana": {
@@ -431,6 +431,10 @@
  },
  "mobot": {
   "hash": "478aa784dbeb7b89f6581b92a16cc71f4b894ed8a283aae6c3f5e40f50be7020",
+  "prices": []
+ },
+ "zoho-qengine": {
+  "hash": "19786f1a310860ad64ea7544ff3c5ae72057dfc869f5bc9441e63b39c0cfd95f",
   "prices": []
  }
 }

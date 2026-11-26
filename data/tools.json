@@ -971,7 +971,7 @@
    "accessibility (WCAG 2.2, RGAA 4, EN 301 549)",
    "visual comparison"
   ],
-  "pricing": "Starter €399/month (€300/month billed yearly; US$479 / US$375), 300 credits, up to 3 users; Pro €999/month (€800/month billed yearly), 1,000 credits, up to 5 users; Enterprise custom (flat fee or volume). Overage €1.20 / US$1.50 per credit. 14-day free trial of Pro with 100 credits",
+  "pricing": "Starter \u20ac399/month (\u20ac300/month billed yearly; US$479 / US$375), 300 credits, up to 3 users; Pro \u20ac999/month (\u20ac800/month billed yearly), 1,000 credits, up to 5 users; Enterprise custom (flat fee or volume). Overage \u20ac1.20 / US$1.50 per credit. 14-day free trial of Pro with 100 credits",
   "free_tier": false,
   "open_source": false,
   "integrations": [
@@ -1073,7 +1073,7 @@
    "CLI tools",
    "Electron and Tauri apps (on your machine)"
   ],
-  "pricing": "Free $0 (100 credits/mo, no card; local runs free forever); Cloud (your own AI key) $5/mo or $50/yr (1,000 credits); Solo Dev $8/mo or $80/yr (1,600 credits); Pro Dev $19/mo or $190/yr (4,000 credits); Team $49/mo or $490/yr (12,000 credits). 1 credit=1¢; cloud run of up to 20 website tests=2 credits; write a test with Optestra AI=10 credits (0 with your own key). Top-ups from $7. No seat pricing. Pricing page updated 10 Oct 2026.",
+  "pricing": "Free $0 (100 credits/mo, no card; local runs free forever); Cloud (your own AI key) $5/mo or $50/yr (1,000 credits); Solo Dev $8/mo or $80/yr (1,600 credits); Pro Dev $19/mo or $190/yr (4,000 credits); Team $49/mo or $490/yr (12,000 credits). 1 credit=1\u00a2; cloud run of up to 20 website tests=2 credits; write a test with Optestra AI=10 credits (0 with your own key). Top-ups from $7. No seat pricing. Pricing page updated 10 Oct 2026.",
   "free_tier": true,
   "open_source": true,
   "integrations": [
@@ -1168,7 +1168,7 @@
    "scheduled monitoring across mobile, tablet and desktop viewport sizes",
    "CI / pull-request checks (Starter and above)"
   ],
-  "pricing": "Free $0 (no card): 5 tests, 500 runs/month, 3 test generations a day, 2 apps, 1 daily schedule. Starter $99/month ($79/month if billed yearly at $948/year, excl. VAT): 30 tests, 2,500 runs/month, about 20 test generations a day, 3 apps, hourly schedules, Slack/email/webhook alerts, CI/API/MCP. Team $299/month ($249/month if billed yearly at $2,988/year, excl. VAT): 250 tests, 20,000 runs/month, about 60 test generations a day, 10 apps, mobile/tablet/desktop tests, schedules as often as every 15 minutes, 90 days of evidence. Enterprise from $799/month (custom contract, excl. VAT): custom tests and runs, schedules as often as every 5 minutes, 180 days of evidence, invoicing. A passing run is plain Playwright and is never billed per run; going over the monthly run allowance is not billed. Official pricing page checked 2026-11-08 (the page itself said “Updated 4 November 2026”).",
+  "pricing": "Free $0 (no card): 5 tests, 500 runs/month, 3 test generations a day, 2 apps, 1 daily schedule. Starter $99/month ($79/month if billed yearly at $948/year, excl. VAT): 30 tests, 2,500 runs/month, about 20 test generations a day, 3 apps, hourly schedules, Slack/email/webhook alerts, CI/API/MCP. Team $299/month ($249/month if billed yearly at $2,988/year, excl. VAT): 250 tests, 20,000 runs/month, about 60 test generations a day, 10 apps, mobile/tablet/desktop tests, schedules as often as every 15 minutes, 90 days of evidence. Enterprise from $799/month (custom contract, excl. VAT): custom tests and runs, schedules as often as every 5 minutes, 180 days of evidence, invoicing. A passing run is plain Playwright and is never billed per run; going over the monthly run allowance is not billed. Official pricing page checked 2026-11-08 (the page itself said \u201cUpdated 4 November 2026\u201d).",
   "free_tier": true,
   "open_source": false,
   "integrations": [
@@ -1469,7 +1469,7 @@
    "web app test generation and regression runs by autonomous agents (Playwright + CI/CD ready)",
    "visual testing and MCP server (listed in product navigation)"
   ],
-  "pricing": "Official pricing page (checked 2026-11-15): Free €0 (50 test steps per session, 2 active projects); Starter €19/user/mo (150 steps per 5 h session, 10 projects); Basic €79/user/mo (500 steps, 100 projects); Premium €179/user/mo (1,000 steps, unlimited projects); Enterprise custom (on-prem, SSO, bring your own LLM). 14-day money-back guarantee, no card to start. Managed testing is quoted separately.",
+  "pricing": "Official pricing page (checked 2026-11-15): Free \u20ac0 (50 test steps per session, 2 active projects); Starter \u20ac19/user/mo (150 steps per 5 h session, 10 projects); Basic \u20ac79/user/mo (500 steps, 100 projects); Premium \u20ac179/user/mo (1,000 steps, unlimited projects); Enterprise custom (on-prem, SSO, bring your own LLM). 14-day money-back guarantee, no card to start. Managed testing is quoted separately.",
   "free_tier": true,
   "open_source": false,
   "integrations": [
@@ -1527,7 +1527,7 @@
    "native Windows desktop applications",
    "REST (Swagger/OpenAPI) and SOAP (WSDL) APIs"
   ],
-  "pricing": "Official site pricing menu (checked 2026-11-18, EUR): Free €0 (200 credits/mo + 1,500 welcome credits, up to 3 apps); Starter €49/mo (3,000 credits/mo, up to 5 apps); Professional €599/mo (20,000 credits/mo, web + desktop); Enterprise custom (unlimited, on-premise). Site states pay per AI credit, no seat licences.",
+  "pricing": "Official site pricing menu (checked 2026-11-18, EUR): Free \u20ac0 (200 credits/mo + 1,500 welcome credits, up to 3 apps); Starter \u20ac49/mo (3,000 credits/mo, up to 5 apps); Professional \u20ac599/mo (20,000 credits/mo, web + desktop); Enterprise custom (unlimited, on-premise). Site states pay per AI credit, no seat licences.",
   "free_tier": true,
   "open_source": false,
   "integrations": [
