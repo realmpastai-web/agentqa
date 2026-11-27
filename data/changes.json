@@ -3730,5 +3730,11 @@
   "name": "Amikoo",
   "what": "page content changed",
   "url": "https://amikoo.ai/pricing"
+ },
+ {
+  "date": "2026-11-27",
+  "name": "Rainforest QA",
+  "what": "page content changed",
+  "url": "https://www.rainforestqa.com/pricing"
  }
 ]
