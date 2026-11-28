@@ -3826,5 +3826,17 @@
   "name": "Rainforest QA",
   "what": "page content changed",
   "url": "https://www.rainforestqa.com/pricing"
+ },
+ {
+  "date": "2026-11-28",
+  "name": "Applitools",
+  "what": "pricing figures changed: $667 / mo",
+  "url": "https://applitools.com/pricing/"
+ },
+ {
+  "date": "2026-11-28",
+  "name": "Rainforest QA",
+  "what": "page content changed",
+  "url": "https://www.rainforestqa.com/pricing"
  }
 ]
